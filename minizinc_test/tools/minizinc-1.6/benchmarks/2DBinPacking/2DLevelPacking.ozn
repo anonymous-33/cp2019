@@ -1,0 +1,4 @@
+array[1 .. 100, 1 .. 100] of var int: z;
+output 
+  [ "Objective = " ] ++ 
+  ([ show(sum(k in 1 .. 100) (z[k, k])) ] ++ [ "\n" ]);

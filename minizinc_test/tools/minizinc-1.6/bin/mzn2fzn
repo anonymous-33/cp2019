@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export MZN_STDLIB_DIR="/data/cp2018_test/tools/minizinc-1.6/lib/minizinc"
+exec "/data/cp2018_test/tools/minizinc-1.6/bin/private/mzn2fzn" "$@"
+

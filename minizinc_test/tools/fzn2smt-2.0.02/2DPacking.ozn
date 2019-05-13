@@ -1,0 +1,5 @@
+output ((["Number of used bins = ",show(obj),"\n"]++["Items in bins = \n\t"])++[show(item[k,j])++if j==N then "\n\t" else " " endif | k in 1..K, j in 1..N, ])++["\n"];
+int: K = 2;
+int: N = 4;
+array [1..K,1..N] of int: item;
+int: obj;

@@ -1,0 +1,10 @@
+WARNING: module 'flatzinc' does not exist, loading library...
+WARNING: module 'flatzinc_syntax' does not exist, loading library...
+% Starting search
+Found a solution with cost 7
+Found a solution with cost 6
+Found no solution with cost 4.0 .. 5.0
+mark = array1d(1..4, [0,1,4,6]);
+% Minimum objective value = 6
+% Total time 0.000s cpu (0.000 setup + 0.000 search)
+----------
