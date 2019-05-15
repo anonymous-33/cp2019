@@ -1,0 +1,3499 @@
+
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost_1_b1.mzn"
+	User time (seconds): 0.19
+	System time (seconds): 0.02
+	Percent of CPU this job got: 56%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 4037
+	Voluntary context switches: 50
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 7464
+	File system outputs: 1160
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn c Seed is 942256813
+% with 17579 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost_1_b1.mzn"
+	User time (seconds): 0.19
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21280
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4260
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn c Seed is 3430770097
+% with 20208 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost_1_b1.mzn"
+	User time (seconds): 0.23
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22632
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4722
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn c Seed is 3215705576
+% with 22997 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2016
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.02
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 4814
+	Voluntary context switches: 10
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1160
+	File system outputs: 1560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn c Seed is 3855284626
+% with 25946 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost_1_b1.mzn"
+	User time (seconds): 0.25
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24252
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4968
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn c Seed is 1044518272
+% with 29055 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost_1_b1.mzn"
+	User time (seconds): 0.28
+	System time (seconds): 0.01
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5267
+	Voluntary context switches: 4
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 1840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn c Seed is 5659969
+% with 32324 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost_1_b1.mzn"
+	User time (seconds): 0.27
+	System time (seconds): 0.04
+	Percent of CPU this job got: 91%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26324
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 5539
+	Voluntary context switches: 14
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 648
+	File system outputs: 1984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn c Seed is 1291219336
+% with 35753 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost_1_b1.mzn"
+	User time (seconds): 0.32
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5808
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn c Seed is 3774220520
+% with 39342 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost_1_b1.mzn"
+	User time (seconds): 0.31
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6199
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn c Seed is 4121265320
+% with 43091 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost_1_b1.mzn"
+	User time (seconds): 0.34
+	System time (seconds): 0.04
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29860
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 6404
+	Voluntary context switches: 18
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 688
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn c Seed is 2298071117
+% with 47000 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2024
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost_1_b1.mzn"
+	User time (seconds): 0.38
+	System time (seconds): 0.02
+	Percent of CPU this job got: 80%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31352
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 6795
+	Voluntary context switches: 34
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2064
+	File system outputs: 2592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn c Seed is 1390095176
+% with 51069 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2016
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost_1_b1.mzn"
+	User time (seconds): 0.37
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7082
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 920
+	File system outputs: 2752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn c Seed is 323135105
+% with 55298 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost_1_b1.mzn"
+	User time (seconds): 0.40
+	System time (seconds): 0.04
+	Percent of CPU this job got: 78%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 26
+	Minor (reclaiming a frame) page faults: 7518
+	Voluntary context switches: 35
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 6416
+	File system outputs: 2912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn c Seed is 2397685246
+% with 59687 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2056
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost_1_b1.mzn"
+	User time (seconds): 0.44
+	System time (seconds): 0.03
+	Percent of CPU this job got: 80%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 26
+	Minor (reclaiming a frame) page faults: 7869
+	Voluntary context switches: 35
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 6416
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn c Seed is 1740535516
+% with 64236 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost_1_b1.mzn"
+	User time (seconds): 0.44
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37136
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8316
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 176
+	File system outputs: 3248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn c Seed is 3431881037
+% with 68945 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost_1_b1.mzn"
+	User time (seconds): 0.48
+	System time (seconds): 0.04
+	Percent of CPU this job got: 81%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 38020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 26
+	Minor (reclaiming a frame) page faults: 8480
+	Voluntary context switches: 40
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 7608
+	File system outputs: 3416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn c Seed is 2759920926
+% with 73814 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1956
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost_1_b1.mzn"
+	User time (seconds): 0.49
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39484
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8907
+	Voluntary context switches: 7
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 1240
+	File system outputs: 3592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn c Seed is 1038187890
+% with 78843 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost_1_b1.mzn"
+	User time (seconds): 0.50
+	System time (seconds): 0.06
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 9191
+	Voluntary context switches: 8
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 920
+	File system outputs: 3768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn c Seed is 2600353856
+% with 84032 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2024
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost_1_b1.mzn"
+	User time (seconds): 0.53
+	System time (seconds): 0.06
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 21
+	Minor (reclaiming a frame) page faults: 9714
+	Voluntary context switches: 29
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 4408
+	File system outputs: 3952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn c Seed is 4142941542
+% with 89381 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost_1_b1.mzn"
+	User time (seconds): 0.56
+	System time (seconds): 0.05
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43336
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9953
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn c Seed is 2750379317
+% with 94890 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost_1_b1.mzn"
+	User time (seconds): 0.06
+	System time (seconds): 0.00
+	Percent of CPU this job got: 81%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12600
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 1906
+	Voluntary context switches: 9
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 928
+	File system outputs: 208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn c Seed is 1959170455
+% with 2227 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost_1_b1.mzn"
+	User time (seconds): 0.58
+	System time (seconds): 0.07
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45092
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10389
+	Voluntary context switches: 11
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 64
+	File system outputs: 4328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn c Seed is 1273669480
+% with 100559 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost_1_b1.mzn"
+	User time (seconds): 0.59
+	System time (seconds): 0.05
+	Percent of CPU this job got: 85%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 46144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 16
+	Minor (reclaiming a frame) page faults: 10642
+	Voluntary context switches: 31
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 4056
+	File system outputs: 4520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn c Seed is 1759443424
+% with 106388 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost_1_b1.mzn"
+	User time (seconds): 0.62
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47636
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11051
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 4720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn c Seed is 3585448269
+% with 112377 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost_1_b1.mzn"
+	User time (seconds): 0.66
+	System time (seconds): 0.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 49124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11398
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn c Seed is 325535611
+% with 118526 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost_1_b1.mzn"
+	User time (seconds): 0.66
+	System time (seconds): 0.07
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 11855
+	Voluntary context switches: 7
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 176
+	File system outputs: 5120
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn c Seed is 4072230057
+% with 124835 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost_1_b1.mzn"
+	User time (seconds): 0.72
+	System time (seconds): 0.04
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.80
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52468
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 12304
+	Voluntary context switches: 15
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2088
+	File system outputs: 5320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn c Seed is 1409577589
+% with 131304 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost_1_b1.mzn"
+	User time (seconds): 0.72
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12526
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5528
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn c Seed is 502196317
+% with 137933 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost_1_b1.mzn"
+	User time (seconds): 0.72
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 55196
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13014
+	Voluntary context switches: 10
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2080
+	File system outputs: 5744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn c Seed is 1530449895
+% with 144722 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost_1_b1.mzn"
+	User time (seconds): 0.76
+	System time (seconds): 0.10
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 56488
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13393
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2176
+	File system outputs: 5952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn c Seed is 4190272702
+% with 151671 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost_1_b1.mzn"
+	User time (seconds): 0.81
+	System time (seconds): 0.10
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 14
+	Minor (reclaiming a frame) page faults: 13843
+	Voluntary context switches: 25
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 3104
+	File system outputs: 6176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn c Seed is 1372318710
+% with 158780 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13612
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2166
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn c Seed is 970975711
+% with 3656 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost_1_b1.mzn"
+	User time (seconds): 0.79
+	System time (seconds): 0.10
+	Percent of CPU this job got: 91%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 15
+	Minor (reclaiming a frame) page faults: 14363
+	Voluntary context switches: 31
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 5432
+	File system outputs: 6392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn c Seed is 914087370
+% with 166049 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost_1_b1.mzn"
+	User time (seconds): 0.84
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 61216
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14608
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2432
+	File system outputs: 6616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn c Seed is 1793817190
+% with 173478 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost_1_b1.mzn"
+	User time (seconds): 0.86
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.97
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15208
+	Voluntary context switches: 12
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2528
+	File system outputs: 6840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn c Seed is 2701082586
+% with 181067 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost_1_b1.mzn"
+	User time (seconds): 0.91
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65284
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15693
+	Voluntary context switches: 15
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2640
+	File system outputs: 7064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn c Seed is 3249452282
+% with 188816 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost_1_b1.mzn"
+	User time (seconds): 0.93
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 16149
+	Voluntary context switches: 5
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 152
+	File system outputs: 7296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn c Seed is 185004826
+% with 196725 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost_1_b1.mzn"
+	User time (seconds): 0.98
+	System time (seconds): 0.07
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 68076
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 16376
+	Voluntary context switches: 17
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2984
+	File system outputs: 7536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn c Seed is 433220650
+% with 204794 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost_1_b1.mzn"
+	User time (seconds): 0.96
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70320
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16969
+	Voluntary context switches: 13
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2912
+	File system outputs: 7768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn c Seed is 3791117830
+% with 213023 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost_1_b1.mzn"
+	User time (seconds): 1.00
+	System time (seconds): 0.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 73280
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17778
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8008
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn c Seed is 1320290692
+% with 221412 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost_1_b1.mzn"
+	User time (seconds): 1.04
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 74656
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18098
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8256
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn c Seed is 1181556255
+% with 229961 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 97
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost_1_b1.mzn"
+	User time (seconds): 1.14
+	System time (seconds): 0.10
+	Percent of CPU this job got: 91%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 76812
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 14
+	Minor (reclaiming a frame) page faults: 18681
+	Voluntary context switches: 35
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3456
+	File system outputs: 8496
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn c Seed is 1433095685
+% with 238670 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost_1_b1.mzn"
+	User time (seconds): 0.09
+	System time (seconds): 0.01
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14764
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2440
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn c Seed is 3405983088
+% with 5165 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost_1_b1.mzn"
+	User time (seconds): 1.11
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 79128
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19330
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn c Seed is 3530473746
+% with 247539 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost_1_b1.mzn"
+	User time (seconds): 1.17
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81296
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19912
+	Voluntary context switches: 17
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3440
+	File system outputs: 9016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn c Seed is 749332222
+% with 256568 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost_1_b1.mzn"
+	User time (seconds): 1.18
+	System time (seconds): 0.10
+	Percent of CPU this job got: 84%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 20328
+	Voluntary context switches: 68
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 10272
+	File system outputs: 9288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn c Seed is 1208145574
+% with 265757 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost_1_b1.mzn"
+	User time (seconds): 1.19
+	System time (seconds): 0.11
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 84412
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 20717
+	Voluntary context switches: 19
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1352
+	File system outputs: 9552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn c Seed is 89967090
+% with 275106 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost_1_b1.mzn"
+	User time (seconds): 1.21
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21387
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 9808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn c Seed is 4004153119
+% with 284615 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost_1_b1.mzn"
+	User time (seconds): 1.25
+	System time (seconds): 0.13
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 88848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 25
+	Minor (reclaiming a frame) page faults: 21928
+	Voluntary context switches: 47
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 6464
+	File system outputs: 10080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn c Seed is 1191183105
+% with 294284 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost_1_b1.mzn"
+	User time (seconds): 1.28
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 90644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 22419
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 10344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn c Seed is 3241397550
+% with 304113 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost_1_b1.mzn"
+	User time (seconds): 1.32
+	System time (seconds): 0.12
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 25
+	Minor (reclaiming a frame) page faults: 23204
+	Voluntary context switches: 45
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 6552
+	File system outputs: 10616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn c Seed is 568116857
+% with 314102 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost_1_b1.mzn"
+	User time (seconds): 1.36
+	System time (seconds): 0.10
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 14
+	Minor (reclaiming a frame) page faults: 23672
+	Voluntary context switches: 33
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 4040
+	File system outputs: 10896
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn c Seed is 2485283656
+% with 324251 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost_1_b1.mzn"
+	User time (seconds): 0.10
+	System time (seconds): 0.02
+	Percent of CPU this job got: 54%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15732
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 13
+	Minor (reclaiming a frame) page faults: 2702
+	Voluntary context switches: 33
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 3352
+	File system outputs: 552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn c Seed is 1238878116
+% with 6834 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost_1_b1.mzn"
+	User time (seconds): 1.41
+	System time (seconds): 0.14
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24334
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 11456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn c Seed is 1673506324
+% with 345029 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost_1_b1.mzn"
+	User time (seconds): 1.41
+	System time (seconds): 0.14
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 32
+	Minor (reclaiming a frame) page faults: 25097
+	Voluntary context switches: 53
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 7800
+	File system outputs: 11744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn c Seed is 2354654915
+% with 355658 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost_1_b1.mzn"
+	User time (seconds): 1.46
+	System time (seconds): 0.14
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 102956
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 32
+	Minor (reclaiming a frame) page faults: 25609
+	Voluntary context switches: 72
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 13336
+	File system outputs: 12032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn c Seed is 3312679475
+% with 366447 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost_1_b1.mzn"
+	User time (seconds): 1.49
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104972
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26115
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn c Seed is 2446296750
+% with 377396 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost_1_b1.mzn"
+	User time (seconds): 1.49
+	System time (seconds): 0.17
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 107744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 32
+	Minor (reclaiming a frame) page faults: 26870
+	Voluntary context switches: 53
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8880
+	File system outputs: 12616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn c Seed is 4225442579
+% with 388505 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost_1_b1.mzn"
+	User time (seconds): 1.57
+	System time (seconds): 0.14
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 109960
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27403
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn c Seed is 425160382
+% with 399774 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1912
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost_1_b1.mzn"
+	User time (seconds): 1.61
+	System time (seconds): 0.15
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 111820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 34
+	Minor (reclaiming a frame) page faults: 27906
+	Voluntary context switches: 70
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 10128
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn c Seed is 1913296529
+% with 411203 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 98
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost_1_b1.mzn"
+	User time (seconds): 1.70
+	System time (seconds): 0.11
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 114620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28662
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn c Seed is 3976407913
+% with 422792 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost_1_b1.mzn"
+	User time (seconds): 1.68
+	System time (seconds): 0.14
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116564
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 28662
+	Voluntary context switches: 54
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 9408
+	File system outputs: 13816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn c Seed is 1726818107
+% with 434541 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1976
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost_1_b1.mzn"
+	User time (seconds): 0.13
+	System time (seconds): 0.00
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 2980
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 112
+	File system outputs: 664
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn c Seed is 3128434393
+% with 8663 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost_1_b1.mzn"
+	User time (seconds): 0.10
+	System time (seconds): 0.02
+	Percent of CPU this job got: 83%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16968
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 3070
+	Voluntary context switches: 10
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 1136
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn c Seed is 18867651
+% with 10652 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost_1_b1.mzn"
+	User time (seconds): 0.13
+	System time (seconds): 0.01
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 18112
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3373
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn c Seed is 132435751
+% with 12801 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- mzn2fzn-hcsp ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G hcsplib -O- --fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost_1_b1.mzn"
+	User time (seconds): 0.16
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19528
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3830
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- hcsp ---- ###
+% Constructing hcsp-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn c Seed is 2764219898
+% with 15110 constraints
+% Solving % ==== Solving SAT problem at first ====
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m hcsp.big -F fzn hcsp-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

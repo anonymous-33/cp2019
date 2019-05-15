@@ -1,0 +1,3631 @@
+
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost_1_b1.mzn"
+	User time (seconds): 0.18
+	System time (seconds): 0.04
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20704
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4041
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 352
+	File system outputs: 1160
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn_1], 3222 variables, 2831 constraints, building time: 0.562s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost_1_b1.mzn"
+	User time (seconds): 0.18
+	System time (seconds): 0.01
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4264
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 400
+	File system outputs: 1288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn_1], 3537 variables, 3107 constraints, building time: 0.522s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost_1_b1.mzn"
+	User time (seconds): 0.23
+	System time (seconds): 0.02
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4719
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 440
+	File system outputs: 1424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn_1], 3851 variables, 3382 constraints, building time: 0.539s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.02
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23372
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4813
+	Voluntary context switches: 4
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 488
+	File system outputs: 1560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn_1], 4165 variables, 3657 constraints, building time: 0.575s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost_1_b1.mzn"
+	User time (seconds): 0.24
+	System time (seconds): 0.02
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24296
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4960
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 536
+	File system outputs: 1696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn_1], 4480 variables, 3933 constraints, building time: 0.609s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost_1_b1.mzn"
+	User time (seconds): 0.28
+	System time (seconds): 0.02
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25460
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5273
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 584
+	File system outputs: 1840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn_1], 4794 variables, 4208 constraints, building time: 0.610s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost_1_b1.mzn"
+	User time (seconds): 0.28
+	System time (seconds): 0.04
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5538
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 640
+	File system outputs: 1984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn_1], 5109 variables, 4484 constraints, building time: 0.598s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost_1_b1.mzn"
+	User time (seconds): 0.29
+	System time (seconds): 0.03
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27544
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5795
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 696
+	File system outputs: 2128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn_1], 5423 variables, 4759 constraints, building time: 0.627s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost_1_b1.mzn"
+	User time (seconds): 0.30
+	System time (seconds): 0.03
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6191
+	Voluntary context switches: 5
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 744
+	File system outputs: 2280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn_1], 5738 variables, 5035 constraints, building time: 0.647s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost_1_b1.mzn"
+	User time (seconds): 0.37
+	System time (seconds): 0.01
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29948
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6436
+	Voluntary context switches: 11
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 800
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn_1], 6052 variables, 5310 constraints, building time: 0.660s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost_1_b1.mzn"
+	User time (seconds): 0.37
+	System time (seconds): 0.03
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31356
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6805
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 864
+	File system outputs: 2592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn_1], 6366 variables, 5585 constraints, building time: 0.694s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost_1_b1.mzn"
+	User time (seconds): 0.38
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7113
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 920
+	File system outputs: 2752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn_1], 6681 variables, 5861 constraints, building time: 0.719s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 97
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost_1_b1.mzn"
+	User time (seconds): 0.42
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7533
+	Voluntary context switches: 6
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 984
+	File system outputs: 2912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn_1], 6995 variables, 6136 constraints, building time: 0.753s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost_1_b1.mzn"
+	User time (seconds): 0.41
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35404
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7869
+	Voluntary context switches: 6
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 1040
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn_1], 7309 variables, 6411 constraints, building time: 0.738s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost_1_b1.mzn"
+	User time (seconds): 0.44
+	System time (seconds): 0.03
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37240
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8320
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1104
+	File system outputs: 3248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn_1], 7624 variables, 6687 constraints, building time: 0.753s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost_1_b1.mzn"
+	User time (seconds): 0.45
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8493
+	Voluntary context switches: 7
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1176
+	File system outputs: 3416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn_1], 7938 variables, 6962 constraints, building time: 0.825s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost_1_b1.mzn"
+	User time (seconds): 0.46
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39344
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8909
+	Voluntary context switches: 7
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1240
+	File system outputs: 3592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn_1], 8252 variables, 7237 constraints, building time: 0.852s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost_1_b1.mzn"
+	User time (seconds): 0.50
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40524
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9160
+	Voluntary context switches: 7
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1304
+	File system outputs: 3768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn_1], 8567 variables, 7513 constraints, building time: 0.869s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost_1_b1.mzn"
+	User time (seconds): 0.52
+	System time (seconds): 0.07
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42412
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9721
+	Voluntary context switches: 7
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1376
+	File system outputs: 3952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn_1], 8881 variables, 7788 constraints, building time: 0.887s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost_1_b1.mzn"
+	User time (seconds): 0.52
+	System time (seconds): 0.09
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9955
+	Voluntary context switches: 8
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1448
+	File system outputs: 4136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn_1], 9195 variables, 8063 constraints, building time: 0.868s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost_1_b1.mzn"
+	User time (seconds): 0.06
+	System time (seconds): 0.01
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12500
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1922
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 64
+	File system outputs: 208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn_1], 650 variables, 571 constraints, building time: 0.335s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost_1_b1.mzn"
+	User time (seconds): 0.56
+	System time (seconds): 0.07
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45172
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10379
+	Voluntary context switches: 8
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1520
+	File system outputs: 4328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn_1], 9510 variables, 8339 constraints, building time: 0.891s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost_1_b1.mzn"
+	User time (seconds): 0.60
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 46204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10646
+	Voluntary context switches: 9
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1600
+	File system outputs: 4520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn_1], 9824 variables, 8614 constraints, building time: 0.923s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost_1_b1.mzn"
+	User time (seconds): 0.64
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11065
+	Voluntary context switches: 9
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1672
+	File system outputs: 4720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn_1], 10138 variables, 8889 constraints, building time: 0.892s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost_1_b1.mzn"
+	User time (seconds): 0.65
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.74
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 49084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11422
+	Voluntary context switches: 9
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1752
+	File system outputs: 4912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn_1], 10453 variables, 9165 constraints, building time: 0.952s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost_1_b1.mzn"
+	User time (seconds): 0.67
+	System time (seconds): 0.07
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11883
+	Voluntary context switches: 9
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1832
+	File system outputs: 5120
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn_1], 10767 variables, 9440 constraints, building time: 0.972s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost_1_b1.mzn"
+	User time (seconds): 0.70
+	System time (seconds): 0.05
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52284
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12314
+	Voluntary context switches: 10
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 1912
+	File system outputs: 5320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn_1], 11081 variables, 9715 constraints, building time: 0.948s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost_1_b1.mzn"
+	User time (seconds): 0.71
+	System time (seconds): 0.08
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12524
+	Voluntary context switches: 17
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1992
+	File system outputs: 5528
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn_1], 11395 variables, 9990 constraints, building time: 0.999s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost_1_b1.mzn"
+	User time (seconds): 0.74
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 55028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13052
+	Voluntary context switches: 10
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2080
+	File system outputs: 5744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn_1], 11710 variables, 10266 constraints, building time: 0.993s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost_1_b1.mzn"
+	User time (seconds): 0.77
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 56540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13412
+	Voluntary context switches: 11
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2168
+	File system outputs: 5952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn_1], 12024 variables, 10541 constraints, building time: 1.011s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost_1_b1.mzn"
+	User time (seconds): 0.80
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.88
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58152
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13847
+	Voluntary context switches: 11
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2248
+	File system outputs: 6176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn_1], 12338 variables, 10816 constraints, building time: 1.001s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.00
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2168
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 88
+	File system outputs: 328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn_1], 1014 variables, 896 constraints, building time: 0.374s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost_1_b1.mzn"
+	User time (seconds): 0.81
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14367
+	Voluntary context switches: 12
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2344
+	File system outputs: 6392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn_1], 12652 variables, 11091 constraints, building time: 1.087s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost_1_b1.mzn"
+	User time (seconds): 0.86
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 61200
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14630
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2432
+	File system outputs: 6616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn_1], 12967 variables, 11367 constraints, building time: 1.100s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost_1_b1.mzn"
+	User time (seconds): 0.92
+	System time (seconds): 0.04
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63608
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15201
+	Voluntary context switches: 12
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 2528
+	File system outputs: 6840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn_1], 13281 variables, 11642 constraints, building time: 1.170s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost_1_b1.mzn"
+	User time (seconds): 0.92
+	System time (seconds): 0.09
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15730
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2616
+	File system outputs: 7064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn_1], 13595 variables, 11917 constraints, building time: 1.159s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost_1_b1.mzn"
+	User time (seconds): 0.95
+	System time (seconds): 0.07
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67136
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16149
+	Voluntary context switches: 13
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2712
+	File system outputs: 7296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn_1], 13910 variables, 12193 constraints, building time: 1.190s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost_1_b1.mzn"
+	User time (seconds): 0.92
+	System time (seconds): 0.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16359
+	Voluntary context switches: 13
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2816
+	File system outputs: 7536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn_1], 14224 variables, 12468 constraints, building time: 1.293s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost_1_b1.mzn"
+	User time (seconds): 0.99
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16973
+	Voluntary context switches: 22
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2912
+	File system outputs: 7768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn_1], 14538 variables, 12743 constraints, building time: 1.228s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost_1_b1.mzn"
+	User time (seconds): 1.04
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 73228
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17787
+	Voluntary context switches: 14
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3016
+	File system outputs: 8008
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn_1], 14852 variables, 13018 constraints, building time: 1.252s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost_1_b1.mzn"
+	User time (seconds): 1.04
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 74648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18136
+	Voluntary context switches: 14
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3120
+	File system outputs: 8256
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn_1], 15166 variables, 13293 constraints, building time: 1.245s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost_1_b1.mzn"
+	User time (seconds): 1.09
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 77012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18725
+	Voluntary context switches: 15
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3224
+	File system outputs: 8496
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn_1], 15481 variables, 13569 constraints, building time: 1.259s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost_1_b1.mzn"
+	User time (seconds): 0.09
+	System time (seconds): 0.02
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2446
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 120
+	File system outputs: 440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn_1], 1328 variables, 1171 constraints, building time: 0.395s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost_1_b1.mzn"
+	User time (seconds): 1.11
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 79492
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19317
+	Voluntary context switches: 15
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3328
+	File system outputs: 8760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn_1], 15795 variables, 13844 constraints, building time: 1.303s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost_1_b1.mzn"
+	User time (seconds): 1.14
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19887
+	Voluntary context switches: 16
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3432
+	File system outputs: 9016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn_1], 16109 variables, 14119 constraints, building time: 1.270s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost_1_b1.mzn"
+	User time (seconds): 1.18
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20365
+	Voluntary context switches: 16
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3544
+	File system outputs: 9288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn_1], 16423 variables, 14394 constraints, building time: 1.388s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost_1_b1.mzn"
+	User time (seconds): 1.20
+	System time (seconds): 0.12
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 84408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20731
+	Voluntary context switches: 16
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 3656
+	File system outputs: 9552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn_1], 16738 variables, 14670 constraints, building time: 1.291s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost_1_b1.mzn"
+	User time (seconds): 1.31
+	System time (seconds): 0.10
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87136
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21408
+	Voluntary context switches: 24
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 3768
+	File system outputs: 9808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn_1], 17052 variables, 14945 constraints, building time: 1.339s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost_1_b1.mzn"
+	User time (seconds): 1.27
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 89052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21905
+	Voluntary context switches: 18
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 3880
+	File system outputs: 10080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn_1], 17366 variables, 15220 constraints, building time: 1.340s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost_1_b1.mzn"
+	User time (seconds): 1.33
+	System time (seconds): 0.09
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 90740
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 22419
+	Voluntary context switches: 18
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 4000
+	File system outputs: 10344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn_1], 17680 variables, 15495 constraints, building time: 1.457s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost_1_b1.mzn"
+	User time (seconds): 1.28
+	System time (seconds): 0.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23227
+	Voluntary context switches: 18
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 4112
+	File system outputs: 10616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn_1], 17995 variables, 15771 constraints, building time: 1.428s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost_1_b1.mzn"
+	User time (seconds): 1.36
+	System time (seconds): 0.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95708
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23695
+	Voluntary context switches: 19
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 4232
+	File system outputs: 10896
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn_1], 18309 variables, 16046 constraints, building time: 1.478s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost_1_b1.mzn"
+	User time (seconds): 0.11
+	System time (seconds): 0.01
+	Percent of CPU this job got: 91%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15412
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2718
+	Voluntary context switches: 4
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 160
+	File system outputs: 552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn_1], 1642 variables, 1446 constraints, building time: 0.401s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost_1_b1.mzn"
+	User time (seconds): 1.44
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98500
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24401
+	Voluntary context switches: 20
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 4472
+	File system outputs: 11456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn_1], 18937 variables, 16596 constraints, building time: 1.430s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost_1_b1.mzn"
+	User time (seconds): 1.54
+	System time (seconds): 0.15
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25148
+	Voluntary context switches: 27
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 4600
+	File system outputs: 11744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn_1], 19251 variables, 16871 constraints, building time: 1.661s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost_1_b1.mzn"
+	User time (seconds): 1.48
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 103216
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25639
+	Voluntary context switches: 14
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3008
+	File system outputs: 12032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn_1], 19566 variables, 17147 constraints, building time: 1.618s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost_1_b1.mzn"
+	User time (seconds): 1.50
+	System time (seconds): 0.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26122
+	Voluntary context switches: 21
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 4848
+	File system outputs: 12320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn_1], 19880 variables, 17422 constraints, building time: 1.503s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost_1_b1.mzn"
+	User time (seconds): 1.54
+	System time (seconds): 0.16
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 107800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26888
+	Voluntary context switches: 22
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 4976
+	File system outputs: 12616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn_1], 20194 variables, 17697 constraints, building time: 1.652s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 97
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost_1_b1.mzn"
+	User time (seconds): 1.60
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 110052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27430
+	Voluntary context switches: 18
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 4168
+	File system outputs: 12912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn_1], 20508 variables, 17972 constraints, building time: 1.657s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost_1_b1.mzn"
+	User time (seconds): 1.61
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.78
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 111888
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27426
+	Voluntary context switches: 23
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 5240
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn_1], 20822 variables, 18247 constraints, building time: 1.667s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost_1_b1.mzn"
+	User time (seconds): 1.63
+	System time (seconds): 0.15
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 114520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28648
+	Voluntary context switches: 31
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 5360
+	File system outputs: 13512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn_1], 21137 variables, 18523 constraints, building time: 1.679s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost_1_b1.mzn"
+	User time (seconds): 1.70
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28674
+	Voluntary context switches: 26
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 5480
+	File system outputs: 13816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn_1], 21451 variables, 18798 constraints, building time: 1.634s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost_1_b1.mzn"
+	User time (seconds): 0.12
+	System time (seconds): 0.01
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16796
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3001
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 664
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn_1], 1956 variables, 1721 constraints, building time: 0.449s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost_1_b1.mzn"
+	User time (seconds): 0.13
+	System time (seconds): 0.02
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3089
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn_1], 2270 variables, 1996 constraints, building time: 0.444s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost_1_b1.mzn"
+	User time (seconds): 0.15
+	System time (seconds): 0.01
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17952
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3373
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn_1], 2584 variables, 2271 constraints, building time: 0.470s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- mzn2fzn-choco ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G choco-mzn-lib -O- --fzn choco-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn /home/contaldo/benchmarks/smallbench_thesis/int_bmc_paper/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost_1_b1.mzn"
+	User time (seconds): 0.16
+	System time (seconds): 0.01
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19560
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3849
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- choco ---- ###
+% [choco-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn]
+% simple solver
+% parse instance...
+% solve instance...
+% Model[choco-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn_1], 2898 variables, 2546 constraints, building time: 0.479s, w/o user-defined search strategy, w/o complementary search strategy
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m java -cp .:/home/contaldo/solvers/choco/choco-parsers-4.0.4-with-dependencies.jar org.chocosolver.parser.flatzinc.ChocoFZN choco-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

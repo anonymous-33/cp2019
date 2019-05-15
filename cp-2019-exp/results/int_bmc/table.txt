@@ -1,0 +1,20 @@
+Results table
+##################################################
+or-tools-cp 	 numb of prob:  66 	 terminated:  0 	 timeout:  58 	 tool-errors : 8 	 cum_times:  0
+or-tools-sat 	 numb of prob:  66 	 terminated:  0 	 timeout:  57 	 tool-errors : 9 	 cum_times:  0
+g12fd 	 numb of prob:  66 	 terminated:  0 	 timeout:  0 	 tool-errors : 66 	 cum_times:  0
+choco 	 numb of prob:  66 	 terminated:  0 	 timeout:  66 	 tool-errors : 0 	 cum_times:  0
+picat-sat 	 numb of prob:  66 	 terminated:  4 	 timeout:  62 	 tool-errors : 0 	 cum_times:  1667.4
+picat-cp 	 numb of prob:  66 	 terminated:  0 	 timeout:  66 	 tool-errors : 0 	 cum_times:  0
+jacop 	 numb of prob:  66 	 terminated:  0 	 timeout:  0 	 tool-errors : 66 	 cum_times:  0
+izplus 	 numb of prob:  66 	 terminated:  0 	 timeout:  0 	 tool-errors : 66 	 cum_times:  0
+gurobi 	 numb of prob:  66 	 terminated:  0 	 timeout:  0 	 tool-errors : 66 	 cum_times:  0
+chuffed 	 numb of prob:  66 	 terminated:  0 	 timeout:  19 	 tool-errors : 47 	 cum_times:  0
+hcsp 	 numb of prob:  66 	 terminated:  0 	 timeout:  66 	 tool-errors : 0 	 cum_times:  0
+ourtool_flat_opz3 	 numb of prob:  66 	 terminated:  48 	 timeout:  18 	 tool-errors : 0 	 cum_times:  7113.609999999999
+ourtool_smt2 	 numb of prob:  66 	 terminated:  44 	 timeout:  22 	 tool-errors : 0 	 cum_times:  2657.8199999999997
+gurobi_lim 	 numb of prob:  66 	 terminated:  3 	 timeout:  63 	 tool-errors : 0 	 cum_times:  166.47
+gecode 	 numb of prob:  66 	 terminated:  0 	 timeout:  66 	 tool-errors : 0 	 cum_times:  0
+VB  fzn - no our tool  nprob:  66 	nterminated:  4 	timeout:  62 	error:  0 	cum times:  718.03
+VB  all fzn  nprob:  66 	nterminated:  48 	timeout:  18 	error:  0 	cum times:  7113.609999999999
+VB  all  nprob:  66 	nterminated:  50 	timeout:  16 	error:  0 	cum times:  5037.480000000001

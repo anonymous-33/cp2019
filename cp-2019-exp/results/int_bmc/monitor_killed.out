@@ -1,0 +1,115 @@
+./monitor_ram.sh killed 'fzn-or-tools' (4070) using 84.6% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (5147) using 85.1% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (29106) using 85.1% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (25312) using 80.5% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (13059) using 84.6% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (18294) using 81.3% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (13712) using 80.4% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (12656) using 88.0% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (14554) using 81.5% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (21310) using 80.5% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (48906) using 84.3% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (35589) using 84.1% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (15119) using 88.8% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (35025) using 80.6% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (32640) using 85.7% of memory
+./monitor_ram.sh killed 'fzn_izplus' (36489) using 81.3% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (29200) using 84.7% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (21679) using 82.1% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (28780) using 84.3% of memory
+./monitor_ram.sh killed 'fzn-or-tools' (22701) using 90.0% of memory
+
+-e monitor_ram.sh killed 'fzn-chuffed' (8499) using 80.1% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (12852) using 80.0% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (17690) using 80.1% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+-e monitor_ram.sh killed 'fzn-chuffed' (20587) using 79.9% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+-e monitor_ram.sh killed 'fzn-chuffed' (24996) using 79.9% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+-e monitor_ram.sh killed 'fzn-chuffed' (27554) using 80.2% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (30432) using 79.9% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (40592) using 79.8% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (44419) using 80.0% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+./monitor_ram.sh killed 'fzn-chuffed' (48303) using 79.9% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (3700) using 79.9% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (6676) using 80.4% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+-e monitor_ram.sh killed 'fzn-chuffed' (11485) using 79.9% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (15221) using 80.0% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (19426) using 80.1% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (23845) using 80.0% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (26589) using 80.1% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (30915) using 80.1% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (26452) using 80.7% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (26452) using 80.7% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (30587) using 80.5% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (39462) using 80.4% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (17769) using 80.1% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+-e monitor_ram.sh killed 'fzn-chuffed' (22247) using 80.5% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+-e monitor_ram.sh killed 'fzn-chuffed' (12999) using 80.2% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+./monitor_ram.sh killed 'fzn-chuffed' (28376) using 80.0% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (32462) using 79.9% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+./monitor_ram.sh killed 'fzn-chuffed' (36824) using 80.0% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (40758) using 80.1% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (7741) using 80.0% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (11831) using 80.4% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (11831) using 80.4% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (9571) using 80.2% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (12972) using 80.2% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (17276) using 80.3% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (20694) using 80.3% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (24006) using 80.2% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (27373) using 79.9% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+./monitor_ram.sh killed 'fzn-chuffed' (31808) using 80.0% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (35210) using 79.8% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (45051) using 79.8% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (395) using 80.2% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (22355) using 80.4% of memory
+(standard_in) 1: syntax error
+(standard_in) 1: illegal character: M
+(standard_in) 1: illegal character: M
+./monitor_ram.sh: line 31: [: 1: unary operator expected
+./monitor_ram.sh killed 'fzn-chuffed' (26376) using 80.4% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (31952) using 80.0% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (31952) using 80.0% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (35480) using 80.2% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (44375) using 79.9% of memory
+./monitor_ram.sh killed 'fzn-chuffed' (49058) using 80.2% of memory
+-e monitor_ram.sh killed 'fzn-chuffed' (3215) using 80.3% of memory

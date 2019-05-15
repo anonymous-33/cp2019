@@ -1,0 +1,161 @@
+#!/usr/bin/perl -w
+use strict;
+use File::Temp qw/ tempdir /;
+use FindBin qw($Bin);
+
+# fgrep is just like  File::Grep. We don't have it on this system.
+sub fgrep (&@){
+    my ($block, @files)=@_;
+    my @lines;
+    for my $file (@files) {
+        open my $fh, ,"<", $file or next;
+        push(@lines,  grep {&$block } <$fh>);
+    }
+    return @lines;
+}
+# Execute 'system()' and trace it if required
+sub traced_system {
+    my ($parsed_args, @execute)= @_;
+    print "% ", join(" ", @execute), "\n" if $parsed_args->{"trace"};
+    my $pid = fork();
+    if ($pid == 0) {
+        open(STDERR, ">", "$parsed_args->{tmp_dir}/stderr") ||
+            die "$parsed_args->{tmp_dir}/stderr: $!";
+        exec(@execute) || exit 1;
+    }
+    waitpid($pid, 0);
+    my $rc= $?;
+    return undef if $rc == 0;
+    my $short= $execute[0];
+    $short =~ s/ .*//;
+    $short =~ s/.*\///;
+    if (fgrep {/ stack overflow|Bad GET_MEM arg/ }
+              "$parsed_args->{tmp_dir}/stderr") {
+        print_memout($short);
+        exit(1);
+    }
+    if (fgrep {/unexpected non-literal|cannot be converted into HCSP/}
+              "$parsed_args->{tmp_dir}/stderr") {
+        announce_exit('UNSUPPORTED', $short);
+        exit(1);
+    }
+    return 'FAILED';
+}
+
+sub parse_args {
+    my (@args_in)= @_;
+    my %args_out;
+    
+    my $stable;
+    while (!$stable && @args_in) {
+        $stable= 1;
+        if ($args_in[0] eq '-v') {
+            shift @args_in;
+            $args_out{"trace"}=1;
+            $stable= undef;
+        } elsif ($args_in[0] eq '-t') {
+            shift @args_in;
+            $args_out{"keep_temp"}=1;
+            $stable= undef;
+        } elsif ($args_in[0] eq '-hcsp') {
+            shift @args_in;
+            $args_out{"hcsp_args"}=shift @args_in;
+            $stable= undef;
+        }
+    }
+    $args_out{"pass_on"}= \@args_in;
+    return %args_out;
+}
+
+sub generate_file_names {
+    my ($args) = @_;
+    my ($tmp_dir);
+    if ($args->{"keep_temp"}) {
+        $tmp_dir = File::Temp->newdir( "hcsp.XXXXXXXX", CLEANUP => 0 );
+    } else {
+        $tmp_dir = File::Temp->newdir( "/tmp/hcsp.XXXXXXXX" );
+    }
+    $args->{"tmp_dir"}= $tmp_dir;
+    $args->{"hcsp"}= "$Bin/hcsp.big";
+    $args->{"fzn_orig"}="$tmp_dir/orig.fzn";
+    $args->{"fzn"}="$tmp_dir/t.fzn";
+    $args->{"ozn"}="$tmp_dir/t.ozn";
+    $args->{"hcsp_log"}="$tmp_dir/hcsp.log";
+}
+
+sub print_memout {
+    announce_exit('MEMOUT', @_);
+}
+
+sub announce_exit {
+    my ($txt, $n) = @_;
+    if (defined $n) {
+        $n = "-$n";
+    } else {
+        $n= '';
+    }
+    print "=====$txt$n=====\n";
+}
+
+sub run_solver {
+    my ($args) = @_;
+    my $rc;
+    $rc= traced_system($args, "mzn2fzn", "-G", "hcsp4", "-o",
+                       $args->{"fzn_orig"}, "--output-ozn-to-file",
+                       $args->{"ozn"}, @{$args->{"pass_on"}});
+    if ($rc) {
+        announce_exit($rc, 'mzn2fzn');
+        exit(2);
+    }
+    open my $fzn_orig, "<", $args->{"fzn_orig"} || die "$args->{fzn_orig}: $!";
+    open my $fzn_final, ">", $args->{"fzn"} || die "$args->{fzn}: $!";
+    if ($args->{"trace"}) {
+        print "% removing set parameters\n";
+    }
+    while (<$fzn_orig>) {
+        if (/set/) {
+            s/^array(.*of set)/% array$1/;
+            s/^set /% set/;
+        }
+        print $fzn_final $_;
+    }
+    $fzn_final->close();
+    my $hcsp_args= $args->{"hcsp_args"};
+    if (defined $hcsp_args) {
+        $hcsp_args .= " ";
+    } else {
+        $hcsp_args = "";
+    }
+    $rc= traced_system(
+             $args,
+             "$args->{hcsp} -F fzn -s1 -b1000000000 $hcsp_args$args->{fzn} ".
+             "2>&1 | ".
+             "tee $args->{hcsp_log} | " .
+             "solns2out $args->{ozn} 2>&1");
+    if ($rc) {
+        if (fgrep {/MEMOUT|Out of memory/} $args->{"hcsp_log"}) {
+            print_memout("hcsp");
+            return;
+        }
+        my @summary= fgrep {/====\w+===/} $args->{"hcsp_log"};
+		@summary= map {chomp;/=====([^=]+)=====/; } @summary;
+        if (@summary) {
+            announce_exit($summary[-1], 'hcsp');
+        } else {
+            announce_exit($rc, 'hcsp');
+        } 
+        exit(1);
+    }
+    if ($args->{"trace"} && open(LOG, $args->{"hcsp_log"})) {
+        while (<LOG>) {
+            /(\d+) backtracks/ || next;
+            print "% $1 backtracks\n";
+        }
+        close(LOG);
+    }
+}
+
+my %args= (parse_args(@ARGV));
+generate_file_names(\%args);
+run_solver(\%args);
+

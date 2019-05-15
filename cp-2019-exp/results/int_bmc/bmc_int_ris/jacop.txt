@@ -1,0 +1,3697 @@
+
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost_1_b1.mzn"
+	User time (seconds): 0.20
+	System time (seconds): 0.01
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4107
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 1160
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn"
+	User time (seconds): 0.02
+	System time (seconds): 0.03
+	Percent of CPU this job got: 19%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25196
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 75
+	Minor (reclaiming a frame) page faults: 2196
+	Voluntary context switches: 294
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 25656
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost_1_b1.mzn"
+	User time (seconds): 0.18
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4249
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn"
+	User time (seconds): 0.02
+	System time (seconds): 0.02
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 2260
+	Voluntary context switches: 102
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 6992
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4703
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 32%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24480
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 37
+	Minor (reclaiming a frame) page faults: 2107
+	Voluntary context switches: 110
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 8568
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost_1_b1.mzn"
+	User time (seconds): 0.23
+	System time (seconds): 0.03
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4800
+	Voluntary context switches: 5
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 1560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 24%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25240
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 67
+	Minor (reclaiming a frame) page faults: 2244
+	Voluntary context switches: 242
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 20680
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost_1_b1.mzn"
+	User time (seconds): 0.25
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4941
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23672
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2333
+	Voluntary context switches: 56
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost_1_b1.mzn"
+	User time (seconds): 0.27
+	System time (seconds): 0.02
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25400
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5249
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 1840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 26%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 67
+	Minor (reclaiming a frame) page faults: 2183
+	Voluntary context switches: 245
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 20648
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost_1_b1.mzn"
+	User time (seconds): 0.29
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26492
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5506
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 26%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23556
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 44
+	Minor (reclaiming a frame) page faults: 2312
+	Voluntary context switches: 211
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 15560
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost_1_b1.mzn"
+	User time (seconds): 0.28
+	System time (seconds): 0.04
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27424
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5787
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 2128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 37%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25292
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 22
+	Minor (reclaiming a frame) page faults: 2212
+	Voluntary context switches: 180
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 6464
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost_1_b1.mzn"
+	User time (seconds): 0.32
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6183
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 33%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 27
+	Minor (reclaiming a frame) page faults: 2262
+	Voluntary context switches: 192
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 8200
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost_1_b1.mzn"
+	User time (seconds): 0.34
+	System time (seconds): 0.03
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6386
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 23%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24960
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 46
+	Minor (reclaiming a frame) page faults: 2206
+	Voluntary context switches: 261
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 18088
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost_1_b1.mzn"
+	User time (seconds): 0.37
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6811
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 2592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 34%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23732
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 21
+	Minor (reclaiming a frame) page faults: 2375
+	Voluntary context switches: 109
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8672
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost_1_b1.mzn"
+	User time (seconds): 0.36
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32360
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7090
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 2752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.03
+	Percent of CPU this job got: 22%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25268
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 75
+	Minor (reclaiming a frame) page faults: 2269
+	Voluntary context switches: 296
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 27208
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost_1_b1.mzn"
+	User time (seconds): 0.41
+	System time (seconds): 0.03
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7522
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 2912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 25%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 60
+	Minor (reclaiming a frame) page faults: 2191
+	Voluntary context switches: 162
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 18872
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost_1_b1.mzn"
+	User time (seconds): 0.44
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35296
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7875
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 32%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 36
+	Minor (reclaiming a frame) page faults: 2219
+	Voluntary context switches: 222
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 10080
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost_1_b1.mzn"
+	User time (seconds): 0.42
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8291
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 3248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 2338
+	Voluntary context switches: 95
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 12416
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost_1_b1.mzn"
+	User time (seconds): 0.48
+	System time (seconds): 0.04
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37656
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8503
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 3416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 34%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 24
+	Minor (reclaiming a frame) page faults: 2208
+	Voluntary context switches: 95
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 11200
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost_1_b1.mzn"
+	User time (seconds): 0.48
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39188
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8876
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 3592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.01
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25308
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2271
+	Voluntary context switches: 52
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost_1_b1.mzn"
+	User time (seconds): 0.50
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9165
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 3768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 35%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24496
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 24
+	Minor (reclaiming a frame) page faults: 2122
+	Voluntary context switches: 188
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 5672
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost_1_b1.mzn"
+	User time (seconds): 0.54
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42252
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9688
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 3952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn"
+	User time (seconds): 0.02
+	System time (seconds): 0.02
+	Percent of CPU this job got: 44%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 7
+	Minor (reclaiming a frame) page faults: 2145
+	Voluntary context switches: 103
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3960
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost_1_b1.mzn"
+	User time (seconds): 0.57
+	System time (seconds): 0.04
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9947
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 4136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 33%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24336
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 19
+	Minor (reclaiming a frame) page faults: 2134
+	Voluntary context switches: 132
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 6496
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost_1_b1.mzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.00
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12344
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1889
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.00
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2329
+	Voluntary context switches: 54
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost_1_b1.mzn"
+	User time (seconds): 0.57
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10390
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 33%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24808
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 19
+	Minor (reclaiming a frame) page faults: 2260
+	Voluntary context switches: 106
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 6128
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost_1_b1.mzn"
+	User time (seconds): 0.62
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45720
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10537
+	Voluntary context switches: 8
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 4520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 26%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24776
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 68
+	Minor (reclaiming a frame) page faults: 2098
+	Voluntary context switches: 148
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 18136
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost_1_b1.mzn"
+	User time (seconds): 0.62
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11057
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.00
+	Percent of CPU this job got: 68%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25300
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2266
+	Voluntary context switches: 48
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 256
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost_1_b1.mzn"
+	User time (seconds): 0.66
+	System time (seconds): 0.05
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 48732
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11399
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 4912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 26%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 68
+	Minor (reclaiming a frame) page faults: 2239
+	Voluntary context switches: 140
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 17680
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost_1_b1.mzn"
+	User time (seconds): 0.67
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50484
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11845
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5120
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.00
+	Percent of CPU this job got: 47%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 28
+	Minor (reclaiming a frame) page faults: 2125
+	Voluntary context switches: 85
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 4968
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost_1_b1.mzn"
+	User time (seconds): 0.70
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12298
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 5320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 25%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 52
+	Minor (reclaiming a frame) page faults: 2203
+	Voluntary context switches: 152
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 15400
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost_1_b1.mzn"
+	User time (seconds): 0.72
+	System time (seconds): 0.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53068
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12476
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5528
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 27%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 52
+	Minor (reclaiming a frame) page faults: 2197
+	Voluntary context switches: 132
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 15272
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost_1_b1.mzn"
+	User time (seconds): 0.77
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54920
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13015
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn"
+	User time (seconds): 0.02
+	System time (seconds): 0.04
+	Percent of CPU this job got: 25%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 52
+	Minor (reclaiming a frame) page faults: 2196
+	Voluntary context switches: 150
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 15280
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost_1_b1.mzn"
+	User time (seconds): 0.78
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 56288
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13396
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 5952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 26%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23488
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 47
+	Minor (reclaiming a frame) page faults: 2355
+	Voluntary context switches: 141
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 14576
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost_1_b1.mzn"
+	User time (seconds): 0.89
+	System time (seconds): 0.05
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.97
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58300
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13828
+	Voluntary context switches: 13
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 6176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 27%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21684
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 45
+	Minor (reclaiming a frame) page faults: 2387
+	Voluntary context switches: 141
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 14152
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.01
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2148
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.01
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23508
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2335
+	Voluntary context switches: 54
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost_1_b1.mzn"
+	User time (seconds): 0.84
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14324
+	Voluntary context switches: 11
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 6392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 43%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25184
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 9
+	Minor (reclaiming a frame) page faults: 2202
+	Voluntary context switches: 89
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1776
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost_1_b1.mzn"
+	User time (seconds): 0.85
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 61088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14602
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 6616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 21%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23228
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 74
+	Minor (reclaiming a frame) page faults: 2267
+	Voluntary context switches: 291
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 27064
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost_1_b1.mzn"
+	User time (seconds): 0.91
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63256
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15177
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 6840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 33%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21704
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 22
+	Minor (reclaiming a frame) page faults: 2383
+	Voluntary context switches: 115
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 9648
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost_1_b1.mzn"
+	User time (seconds): 0.92
+	System time (seconds): 0.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65156
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15696
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 7064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 21%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25220
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 73
+	Minor (reclaiming a frame) page faults: 2189
+	Voluntary context switches: 288
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 25360
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost_1_b1.mzn"
+	User time (seconds): 0.94
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 66104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15901
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 7296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 23%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 69
+	Minor (reclaiming a frame) page faults: 2194
+	Voluntary context switches: 260
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 24120
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost_1_b1.mzn"
+	User time (seconds): 0.97
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67752
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16389
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 7536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 25%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23556
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 61
+	Minor (reclaiming a frame) page faults: 2321
+	Voluntary context switches: 247
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 22128
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost_1_b1.mzn"
+	User time (seconds): 0.97
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16973
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 7768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.03
+	Percent of CPU this job got: 23%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 62
+	Minor (reclaiming a frame) page faults: 2376
+	Voluntary context switches: 280
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 22976
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost_1_b1.mzn"
+	User time (seconds): 1.03
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 73292
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17774
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8008
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.03
+	Percent of CPU this job got: 21%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25696
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 76
+	Minor (reclaiming a frame) page faults: 2264
+	Voluntary context switches: 292
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 27192
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost_1_b1.mzn"
+	User time (seconds): 1.06
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 74612
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18135
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 8256
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 80%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2211
+	Voluntary context switches: 51
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost_1_b1.mzn"
+	User time (seconds): 1.09
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 76588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18699
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8496
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.01
+	Percent of CPU this job got: 82%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23608
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2327
+	Voluntary context switches: 61
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost_1_b1.mzn"
+	User time (seconds): 0.10
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14484
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2400
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.01
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25076
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2205
+	Voluntary context switches: 50
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost_1_b1.mzn"
+	User time (seconds): 1.14
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 78984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19317
+	Voluntary context switches: 9
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 24%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23804
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 76
+	Minor (reclaiming a frame) page faults: 2362
+	Voluntary context switches: 278
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 24928
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost_1_b1.mzn"
+	User time (seconds): 1.15
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19881
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 9016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 26%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 46
+	Minor (reclaiming a frame) page faults: 2131
+	Voluntary context switches: 236
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 17968
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost_1_b1.mzn"
+	User time (seconds): 1.16
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83024
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20349
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 9288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 24%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 73
+	Minor (reclaiming a frame) page faults: 2250
+	Voluntary context switches: 248
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 21744
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost_1_b1.mzn"
+	User time (seconds): 1.14
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 84348
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20712
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 24
+	File system outputs: 9552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 32%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23608
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 26
+	Minor (reclaiming a frame) page faults: 2314
+	Voluntary context switches: 104
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 8888
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost_1_b1.mzn"
+	User time (seconds): 1.26
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 86644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21300
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 9808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 49%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21280
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 2390
+	Voluntary context switches: 125
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 808
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost_1_b1.mzn"
+	User time (seconds): 1.25
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 88992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21959
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 10080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 22%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 75
+	Minor (reclaiming a frame) page faults: 2263
+	Voluntary context switches: 297
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 26944
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost_1_b1.mzn"
+	User time (seconds): 1.46
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 90820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 22417
+	Voluntary context switches: 13
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 10344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.02
+	Percent of CPU this job got: 22%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 75
+	Minor (reclaiming a frame) page faults: 2198
+	Voluntary context switches: 291
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 27184
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost_1_b1.mzn"
+	User time (seconds): 1.31
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93616
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23217
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 10616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.03
+	Percent of CPU this job got: 21%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21700
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 71
+	Minor (reclaiming a frame) page faults: 2380
+	Voluntary context switches: 291
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 25552
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost_1_b1.mzn"
+	User time (seconds): 1.35
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23689
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 10896
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 32%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23604
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 21
+	Minor (reclaiming a frame) page faults: 2357
+	Voluntary context switches: 105
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 10856
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.02
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14804
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2584
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 37%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25160
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 20
+	Minor (reclaiming a frame) page faults: 2143
+	Voluntary context switches: 91
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 10168
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost_1_b1.mzn"
+	User time (seconds): 1.43
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98152
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24374
+	Voluntary context switches: 5
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 11456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 75%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 2367
+	Voluntary context switches: 45
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 40
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost_1_b1.mzn"
+	User time (seconds): 1.41
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25194
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 11744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.01
+	Percent of CPU this job got: 74%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23792
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2326
+	Voluntary context switches: 48
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost_1_b1.mzn"
+	User time (seconds): 1.48
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 102968
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25596
+	Voluntary context switches: 5
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 12032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 24%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25272
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 74
+	Minor (reclaiming a frame) page faults: 2261
+	Voluntary context switches: 288
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 25968
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost_1_b1.mzn"
+	User time (seconds): 1.50
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 105072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26210
+	Voluntary context switches: 10
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 23%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 77
+	Minor (reclaiming a frame) page faults: 2130
+	Voluntary context switches: 283
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 26656
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost_1_b1.mzn"
+	User time (seconds): 1.53
+	System time (seconds): 0.14
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 107772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26941
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 53
+	Minor (reclaiming a frame) page faults: 2379
+	Voluntary context switches: 239
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 15048
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost_1_b1.mzn"
+	User time (seconds): 1.59
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 109668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27396
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 28%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 57
+	Minor (reclaiming a frame) page faults: 2329
+	Voluntary context switches: 243
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 19432
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost_1_b1.mzn"
+	User time (seconds): 1.61
+	System time (seconds): 0.15
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 111624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27879
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn"
+	User time (seconds): 0.02
+	System time (seconds): 0.03
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 52
+	Minor (reclaiming a frame) page faults: 2346
+	Voluntary context switches: 223
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 14824
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost_1_b1.mzn"
+	User time (seconds): 1.67
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 114444
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28644
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn"
+	User time (seconds): 0.02
+	System time (seconds): 0.04
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25360
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 52
+	Minor (reclaiming a frame) page faults: 2193
+	Voluntary context switches: 140
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 14976
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost_1_b1.mzn"
+	User time (seconds): 1.68
+	System time (seconds): 0.15
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116360
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 29165
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 55%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 9
+	Minor (reclaiming a frame) page faults: 2323
+	Voluntary context switches: 71
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 4864
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost_1_b1.mzn"
+	User time (seconds): 0.12
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2959
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 664
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.03
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25604
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 51
+	Minor (reclaiming a frame) page faults: 2356
+	Voluntary context switches: 228
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 15568
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost_1_b1.mzn"
+	User time (seconds): 0.14
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16932
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3112
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 72%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25300
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2270
+	Voluntary context switches: 67
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 192
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost_1_b1.mzn"
+	User time (seconds): 0.16
+	System time (seconds): 0.01
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3346
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.00
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2338
+	Voluntary context switches: 50
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- mzn2fzn-jacop ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G jacop -O- --fzn jacop-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost_1_b1.mzn"
+	User time (seconds): 0.14
+	System time (seconds): 0.02
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19676
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3833
+	Voluntary context switches: 6
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 232
+	File system outputs: 1032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- jacop ---- ###
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m java -Xss10g -cp /home/contaldo/solvers/JaCop-4.5.0/jacop-4.5.0.jar org.jacop.fz.Fz2jacop jacop-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.01
+	Percent of CPU this job got: 21%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21856
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 76
+	Minor (reclaiming a frame) page faults: 2385
+	Voluntary context switches: 289
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 26768
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1

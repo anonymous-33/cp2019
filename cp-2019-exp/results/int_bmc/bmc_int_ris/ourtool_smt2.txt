@@ -1,0 +1,1893 @@
+
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost.smt2"
+	User time (seconds): 1.69
+	System time (seconds): 0.01
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5821
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost.smt2"
+	User time (seconds): 2.29
+	System time (seconds): 0.02
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 30304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 11074
+	Voluntary context switches: 78
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 16856
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost.smt2"
+	User time (seconds): 2.72
+	System time (seconds): 0.01
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31512
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 8916
+	Voluntary context switches: 11
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 1416
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost.smt2"
+	User time (seconds): 3.80
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35100
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 12533
+	Voluntary context switches: 12
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 1616
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost.smt2"
+	User time (seconds): 4.37
+	System time (seconds): 0.01
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 36
+	Minor (reclaiming a frame) page faults: 13741
+	Voluntary context switches: 48
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 10744
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost.smt2"
+	User time (seconds): 7.09
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42616
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26394
+	Voluntary context switches: 4
+	Involuntary context switches: 12
+	Swaps: 0
+	File system inputs: 1720
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost.smt2"
+	User time (seconds): 5.62
+	System time (seconds): 0.03
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.78
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42676
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 36
+	Minor (reclaiming a frame) page faults: 22018
+	Voluntary context switches: 48
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 10680
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost.smt2"
+	User time (seconds): 8.09
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 48072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 31647
+	Voluntary context switches: 11
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 2072
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost.smt2"
+	User time (seconds): 8.85
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50976
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 28673
+	Voluntary context switches: 12
+	Involuntary context switches: 15
+	Swaps: 0
+	File system inputs: 2312
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost.smt2"
+	User time (seconds): 9.61
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 49924
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 28050
+	Voluntary context switches: 13
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 2504
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost.smt2"
+	User time (seconds): 9.04
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 30493
+	Voluntary context switches: 9
+	Involuntary context switches: 15
+	Swaps: 0
+	File system inputs: 2600
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost.smt2"
+	User time (seconds): 14.32
+	System time (seconds): 0.05
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60840
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 38380
+	Voluntary context switches: 19
+	Involuntary context switches: 21
+	Swaps: 0
+	File system inputs: 2800
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost.smt2"
+	User time (seconds): 15.76
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:16.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 57
+	Minor (reclaiming a frame) page faults: 51935
+	Voluntary context switches: 77
+	Involuntary context switches: 23
+	Swaps: 0
+	File system inputs: 14328
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost.smt2"
+	User time (seconds): 17.66
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 73888
+	Voluntary context switches: 92
+	Involuntary context switches: 28
+	Swaps: 0
+	File system inputs: 18944
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost.smt2"
+	User time (seconds): 20.35
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:20.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 75388
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 66388
+	Voluntary context switches: 17
+	Involuntary context switches: 31
+	Swaps: 0
+	File system inputs: 3416
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost.smt2"
+	User time (seconds): 21.92
+	System time (seconds): 0.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:22.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81684
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 112437
+	Voluntary context switches: 92
+	Involuntary context switches: 31
+	Swaps: 0
+	File system inputs: 19144
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost.smt2"
+	User time (seconds): 19.08
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 80496
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 56158
+	Voluntary context switches: 92
+	Involuntary context switches: 30
+	Swaps: 0
+	File system inputs: 19456
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost.smt2"
+	User time (seconds): 27.65
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.97
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 86132
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 90283
+	Voluntary context switches: 77
+	Involuntary context switches: 38
+	Swaps: 0
+	File system inputs: 19584
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost.smt2"
+	User time (seconds): 45.15
+	System time (seconds): 0.11
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:45.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 103352
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 77298
+	Voluntary context switches: 103
+	Involuntary context switches: 58
+	Swaps: 0
+	File system inputs: 20072
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost.smt2"
+	User time (seconds): 29.65
+	System time (seconds): 0.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:29.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 94048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 80641
+	Voluntary context switches: 25
+	Involuntary context switches: 41
+	Swaps: 0
+	File system inputs: 4568
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost.smt2"
+	User time (seconds): 0.10
+	System time (seconds): 0.00
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12568
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 1697
+	Voluntary context switches: 79
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 15904
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost.smt2"
+	User time (seconds): 52.34
+	System time (seconds): 0.22
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:52.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 119996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 133682
+	Voluntary context switches: 39
+	Involuntary context switches: 74
+	Swaps: 0
+	File system inputs: 4816
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost.smt2"
+	User time (seconds): 46.12
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:46.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 124304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 104085
+	Voluntary context switches: 104
+	Involuntary context switches: 60
+	Swaps: 0
+	File system inputs: 20576
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost.smt2"
+	User time (seconds): 51.23
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:51.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116228
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94780
+	Voluntary context switches: 48
+	Involuntary context switches: 67
+	Swaps: 0
+	File system inputs: 5600
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost.smt2"
+	User time (seconds): 54.02
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:54.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 121952
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 92409
+	Voluntary context switches: 114
+	Involuntary context switches: 75
+	Swaps: 0
+	File system inputs: 21240
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost.smt2"
+	User time (seconds): 40.50
+	System time (seconds): 0.22
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 123396
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 114828
+	Voluntary context switches: 107
+	Involuntary context switches: 54
+	Swaps: 0
+	File system inputs: 21848
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost.smt2"
+	User time (seconds): 104.29
+	System time (seconds): 0.14
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:44.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 137384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 108697
+	Voluntary context switches: 62
+	Involuntary context switches: 105
+	Swaps: 0
+	File system inputs: 8584
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost.smt2"
+	User time (seconds): 94.92
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:35.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 154584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 107451
+	Voluntary context switches: 51
+	Involuntary context switches: 120
+	Swaps: 0
+	File system inputs: 6968
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost.smt2"
+	User time (seconds): 117.68
+	System time (seconds): 0.20
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:57.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 174276
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 133949
+	Voluntary context switches: 45
+	Involuntary context switches: 150
+	Swaps: 0
+	File system inputs: 7504
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost.smt2"
+	User time (seconds): 84.96
+	System time (seconds): 0.16
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:25.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 173940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 56
+	Minor (reclaiming a frame) page faults: 138570
+	Voluntary context switches: 133
+	Involuntary context switches: 108
+	Swaps: 0
+	File system inputs: 15344
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost.smt2"
+	User time (seconds): 0.24
+	System time (seconds): 0.00
+	Percent of CPU this job got: 65%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 34
+	Minor (reclaiming a frame) page faults: 2280
+	Voluntary context switches: 76
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 5000
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost.smt2"
+	User time (seconds): 164.28
+	System time (seconds): 0.36
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:44.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 203148
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 412339
+	Voluntary context switches: 71
+	Involuntary context switches: 219
+	Swaps: 0
+	File system inputs: 7696
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost.smt2"
+	User time (seconds): 106.95
+	System time (seconds): 0.21
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:47.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 188044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 34
+	Minor (reclaiming a frame) page faults: 94916
+	Voluntary context switches: 140
+	Involuntary context switches: 137
+	Swaps: 0
+	File system inputs: 13056
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost.smt2"
+	User time (seconds): 117.74
+	System time (seconds): 0.38
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:58.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 210064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 362936
+	Voluntary context switches: 164
+	Involuntary context switches: 166
+	Swaps: 0
+	File system inputs: 23776
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost.smt2"
+	User time (seconds): 144.46
+	System time (seconds): 0.34
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:25.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 219712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 63
+	Minor (reclaiming a frame) page faults: 276098
+	Voluntary context switches: 144
+	Involuntary context switches: 197
+	Swaps: 0
+	File system inputs: 24536
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost.smt2"
+	User time (seconds): 0.35
+	System time (seconds): 0.01
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 2684
+	Voluntary context switches: 15
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 2176
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost.smt2"
+	User time (seconds): 343.67
+	System time (seconds): 0.39
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:44.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 295752
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 316087
+	Voluntary context switches: 104
+	Involuntary context switches: 381
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost.smt2"
+	User time (seconds): 322.79
+	System time (seconds): 0.42
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:23.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 385612
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 53
+	Minor (reclaiming a frame) page faults: 303939
+	Voluntary context switches: 168
+	Involuntary context switches: 411
+	Swaps: 0
+	File system inputs: 26736
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost.smt2"
+	User time (seconds): 0.54
+	System time (seconds): 0.02
+	Percent of CPU this job got: 72%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 18904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 54
+	Minor (reclaiming a frame) page faults: 3219
+	Voluntary context switches: 68
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 12928
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost.smt2"
+	User time (seconds): 519.42
+	System time (seconds): 1.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:40.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 487584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 797303
+	Voluntary context switches: 265
+	Involuntary context switches: 682
+	Swaps: 0
+	File system inputs: 32528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1972
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost.smt2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1912
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost.smt2"
+	User time (seconds): 0.78
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19760
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 6
+	Minor (reclaiming a frame) page faults: 3717
+	Voluntary context switches: 15
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2712
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost.smt2"
+	User time (seconds): 0.93
+	System time (seconds): 0.00
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20328
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 10
+	Minor (reclaiming a frame) page faults: 3804
+	Voluntary context switches: 21
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 3224
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost.smt2"
+	User time (seconds): 1.22
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23356
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 10
+	Minor (reclaiming a frame) page faults: 4455
+	Voluntary context switches: 20
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3512
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- ourtool-smt2 ---- ###
+sat
+
+(objectives
+ (cost 4)
+)
+	Command being timed: "timeout --signal=SIGKILL 10m ourtool /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost.smt2"
+	User time (seconds): 1.57
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26264
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5742
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 864
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

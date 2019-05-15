@@ -1,0 +1,106 @@
+#!/usr/bin/perl -w
+use strict;
+use File::Temp qw/ tempdir /;
+use IO::File;
+use FindBin qw($Bin);
+
+$| = 1;
+my $ozn= shift(@ARGV);
+# For the given variable value, or value hash, produce a simple list. The
+# elements of the list are ordered according to hash-key, but the list does
+# not contain the hash key.
+sub flatten {
+    my ($variable_values)= @_;
+    if (ref($variable_values) ne 'HASH') {
+        return $variable_values;
+    }
+    my @ret;
+    for my $i (sort {$a <=> $b} keys %$variable_values) {
+        push(@ret, $variable_values->{$i});
+    }
+    return @ret;
+}
+
+sub read_var_types {
+    my ($ozn, $out_var_type, $out_var_dimensions) = @_;
+    open(OZN, $ozn) || die "$ozn:$!";
+    while (<OZN>) {
+        /(\w+) *: *(\w+);/ || next;
+        my ($out_type, $name)= ($1, $2);
+        $out_var_type->{$name}= $out_type;
+        if (/array *\[([^\]]+)\] *of/) {
+            $out_var_dimensions->{$name}= $1;
+        }
+    }
+    close(OZN);
+}
+sub process_assignments {
+    my ($out_var_type, $out_var_dimensions, @assignments) = @_;
+    my %assignments;
+    my %dimentions;
+    foreach my $assignment (@assignments) {
+        my ($flat_var, $val)= $assignment =~ /(.*)=(.*)/;
+        my @indices= split(/____/, $flat_var);
+        my $name= shift(@indices);
+        next unless defined $out_var_type->{$name};
+        die "Too many indices: '".join("','", @indices)."'" if @indices > 1;
+        if ($out_var_type->{$name} eq 'bool') {
+            $val= $val ? 'true': 'false';
+        }
+        if (@indices == 0) {
+            print "$name = $val;\n";
+            die "ozn requires $out_var_dimensions->{$name} dimensions ".
+                "for a scalar"
+            if defined $out_var_dimensions->{$name};
+            next;
+        }
+        die "ozn requires a scalar for $out_var_dimensions->{$name} dimension"
+            if not defined $out_var_dimensions->{$name};
+        $assignments{$name}{$indices[0]}= $val;
+    }
+    foreach my $name (keys %assignments) {
+        my $dim_count= split(/,/, $out_var_dimensions->{$name});
+        print "$name = array${dim_count}d($out_var_dimensions->{$name}, ";
+        print "[", join(", ", flatten($assignments{$name})), "]);\n";
+    }
+    print "----------\n";
+}
+
+my %out_var_type;
+my %out_var_dimensions;
+read_var_types($ozn, \%out_var_type, \%out_var_dimensions);
+
+my $optimal;
+while (<>) {
+    if (/^s (.*)/) {
+        my $rc= $1;
+        if ($rc eq 'OPTIMUM FOUND') {
+            $optimal= 1;
+            next;
+        }
+        if ($rc ne 'SATISFIABLE') {
+            print "=====$rc=====\n";
+            exit(0);
+        }
+    } elsif (/==== no more values to try/) {
+        $optimal= 1;
+        next;
+    } elsif (/Out of memory/) {
+        print "=====MEMOUT=====\n";
+        exit(0);
+    } elsif (!/^o /) {
+        next;
+    }
+    while (<>) {
+        next unless /^c .*=.*,/;
+        chomp;
+        s/^c //;
+        s/ //g;
+        my @assignments= split(/,/);
+        pop(@assignments) if $assignments[-1] eq '';
+        process_assignments(\%out_var_type, \%out_var_dimensions, @assignments);
+        last;
+    }
+    last if $optimal;
+}
+print "==========\n" if $optimal;

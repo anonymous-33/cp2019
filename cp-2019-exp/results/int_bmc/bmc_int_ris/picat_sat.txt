@@ -1,0 +1,3719 @@
+
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost_1_b1.mzn"
+	User time (seconds): 0.21
+	System time (seconds): 0.02
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20688
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4095
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 1160
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn
+% obj = 13632
+opt_var_0 = 13632;
+----------
+% obj = 6797
+opt_var_0 = 6797;
+----------
+% obj = 3396
+opt_var_0 = 3396;
+----------
+% obj = 1536
+opt_var_0 = 1536;
+----------
+% obj = 516
+opt_var_0 = 516;
+----------
+% obj = 5
+opt_var_0 = 5;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1964
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost_1_b1.mzn"
+	User time (seconds): 0.21
+	System time (seconds): 0.01
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4236
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 1288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn
+% obj = 499708
+opt_var_0 = 499708;
+----------
+% obj = 241655
+opt_var_0 = 241655;
+----------
+% obj = 76240
+opt_var_0 = 76240;
+----------
+% obj = 32768
+opt_var_0 = 32768;
+----------
+% obj = 16384
+opt_var_0 = 16384;
+----------
+% obj = 8068
+opt_var_0 = 8068;
+----------
+% obj = 2559
+opt_var_0 = 2559;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost_1_b1.mzn"
+	User time (seconds): 0.21
+	System time (seconds): 0.02
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 4689
+	Voluntary context switches: 10
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 928
+	File system outputs: 1424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn
+% obj = 320704
+opt_var_0 = 320704;
+----------
+% obj = 16384
+opt_var_0 = 16384;
+----------
+% obj = 5265
+opt_var_0 = 5265;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost_1_b1.mzn"
+	User time (seconds): 0.23
+	System time (seconds): 0.03
+	Percent of CPU this job got: 67%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 29
+	Minor (reclaiming a frame) page faults: 4793
+	Voluntary context switches: 46
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8144
+	File system outputs: 1560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn
+% obj = 237404
+opt_var_0 = 237404;
+----------
+% obj = 114687
+opt_var_0 = 114687;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost_1_b1.mzn"
+	User time (seconds): 0.27
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24200
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4930
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn
+% obj = 393216
+opt_var_0 = 393216;
+----------
+% obj = 196608
+opt_var_0 = 196608;
+----------
+% obj = 98304
+opt_var_0 = 98304;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost_1_b1.mzn"
+	User time (seconds): 0.27
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5252
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn
+% obj = 262144
+opt_var_0 = 262144;
+----------
+% obj = 98304
+opt_var_0 = 98304;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost_1_b1.mzn"
+	User time (seconds): 0.28
+	System time (seconds): 0.02
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26512
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 5509
+	Voluntary context switches: 8
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 912
+	File system outputs: 1984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn
+% obj = 422399
+opt_var_0 = 422399;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost_1_b1.mzn"
+	User time (seconds): 0.29
+	System time (seconds): 0.03
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5789
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn
+% obj = 478970
+opt_var_0 = 478970;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost_1_b1.mzn"
+	User time (seconds): 0.30
+	System time (seconds): 0.03
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 28996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 6201
+	Voluntary context switches: 9
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 920
+	File system outputs: 2280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn
+% obj = 246419
+opt_var_0 = 246419;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost_1_b1.mzn"
+	User time (seconds): 0.32
+	System time (seconds): 0.04
+	Percent of CPU this job got: 70%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 30
+	Minor (reclaiming a frame) page faults: 6396
+	Voluntary context switches: 49
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8664
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost_1_b1.mzn"
+	User time (seconds): 0.38
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31404
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6795
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost_1_b1.mzn"
+	User time (seconds): 0.36
+	System time (seconds): 0.06
+	Percent of CPU this job got: 76%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32496
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 27
+	Minor (reclaiming a frame) page faults: 7079
+	Voluntary context switches: 54
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 9168
+	File system outputs: 2752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1928
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost_1_b1.mzn"
+	User time (seconds): 0.36
+	System time (seconds): 0.06
+	Percent of CPU this job got: 76%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 27
+	Minor (reclaiming a frame) page faults: 7508
+	Voluntary context switches: 47
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 8000
+	File system outputs: 2912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost_1_b1.mzn"
+	User time (seconds): 0.42
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35488
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7885
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn
+% obj = 399219
+opt_var_0 = 399219;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1964
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost_1_b1.mzn"
+	User time (seconds): 0.44
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8318
+	Voluntary context switches: 7
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 240
+	File system outputs: 3248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost_1_b1.mzn"
+	User time (seconds): 0.46
+	System time (seconds): 0.05
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37824
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8501
+	Voluntary context switches: 7
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 240
+	File system outputs: 3416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2016
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost_1_b1.mzn"
+	User time (seconds): 0.48
+	System time (seconds): 0.05
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39444
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 8898
+	Voluntary context switches: 13
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1152
+	File system outputs: 3592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost_1_b1.mzn"
+	User time (seconds): 0.52
+	System time (seconds): 0.04
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40264
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 9160
+	Voluntary context switches: 9
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 504
+	File system outputs: 3768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost_1_b1.mzn"
+	User time (seconds): 0.55
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9693
+	Voluntary context switches: 13
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 592
+	File system outputs: 3952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost_1_b1.mzn"
+	User time (seconds): 0.54
+	System time (seconds): 0.05
+	Percent of CPU this job got: 81%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 9941
+	Voluntary context switches: 40
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8072
+	File system outputs: 4136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2016
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost_1_b1.mzn"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12524
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1898
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn
+% obj = 498600
+opt_var_0 = 498600;
+----------
+% obj = 248435
+opt_var_0 = 248435;
+----------
+% obj = 65023
+opt_var_0 = 65023;
+----------
+% obj = 29100
+opt_var_0 = 29100;
+----------
+% obj = 8192
+opt_var_0 = 8192;
+----------
+% obj = 1547
+opt_var_0 = 1547;
+----------
+% obj = 772
+opt_var_0 = 772;
+----------
+% obj = 222
+opt_var_0 = 222;
+----------
+% obj = 106
+opt_var_0 = 106;
+----------
+% obj = 53
+opt_var_0 = 53;
+----------
+% obj = 26
+opt_var_0 = 26;
+----------
+% obj = 8
+opt_var_0 = 8;
+----------
+% obj = 4
+opt_var_0 = 4;
+----------
+% obj = 4
+==========
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn"
+	User time (seconds): 164.62
+	System time (seconds): 1.89
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:46.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 72108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 114736
+	Voluntary context switches: 17
+	Involuntary context switches: 194
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 24
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost_1_b1.mzn"
+	User time (seconds): 0.55
+	System time (seconds): 0.08
+	Percent of CPU this job got: 81%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 44992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 10367
+	Voluntary context switches: 46
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 9688
+	File system outputs: 4328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 90
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost_1_b1.mzn"
+	User time (seconds): 0.59
+	System time (seconds): 0.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10634
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 4520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost_1_b1.mzn"
+	User time (seconds): 0.62
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11075
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost_1_b1.mzn"
+	User time (seconds): 0.65
+	System time (seconds): 0.06
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 48756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 11386
+	Voluntary context switches: 7
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 296
+	File system outputs: 4912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost_1_b1.mzn"
+	User time (seconds): 0.68
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50388
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11854
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 5120
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2016
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost_1_b1.mzn"
+	User time (seconds): 0.69
+	System time (seconds): 0.07
+	Percent of CPU this job got: 84%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52296
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 26
+	Minor (reclaiming a frame) page faults: 12286
+	Voluntary context switches: 48
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 9344
+	File system outputs: 5320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost_1_b1.mzn"
+	User time (seconds): 0.71
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53200
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12491
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5528
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost_1_b1.mzn"
+	User time (seconds): 0.73
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 55036
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 13010
+	Voluntary context switches: 7
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 696
+	File system outputs: 5744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost_1_b1.mzn"
+	User time (seconds): 0.76
+	System time (seconds): 0.07
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 56408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 15
+	Minor (reclaiming a frame) page faults: 13384
+	Voluntary context switches: 19
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1176
+	File system outputs: 5952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost_1_b1.mzn"
+	User time (seconds): 0.78
+	System time (seconds): 0.08
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58176
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 15
+	Minor (reclaiming a frame) page faults: 13849
+	Voluntary context switches: 28
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 3560
+	File system outputs: 6176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost_1_b1.mzn"
+	User time (seconds): 0.09
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13392
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2150
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn
+% obj = 491519
+opt_var_0 = 491519;
+----------
+% obj = 239780
+opt_var_0 = 239780;
+----------
+% obj = 116672
+opt_var_0 = 116672;
+----------
+% obj = 58336
+opt_var_0 = 58336;
+----------
+% obj = 16384
+opt_var_0 = 16384;
+----------
+% obj = 8191
+opt_var_0 = 8191;
+----------
+% obj = 4095
+opt_var_0 = 4095;
+----------
+% obj = 1795
+opt_var_0 = 1795;
+----------
+% obj = 896
+opt_var_0 = 896;
+----------
+% obj = 63
+opt_var_0 = 63;
+----------
+% obj = 29
+opt_var_0 = 29;
+----------
+% obj = 11
+opt_var_0 = 11;
+----------
+% obj = 5
+opt_var_0 = 5;
+----------
+% obj = 4
+opt_var_0 = 4;
+----------
+% obj = 4
+==========
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn"
+	User time (seconds): 378.74
+	System time (seconds): 3.77
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:22.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 86392
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 154392
+	Voluntary context switches: 12
+	Involuntary context switches: 469
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 56
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost_1_b1.mzn"
+	User time (seconds): 0.83
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60216
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14349
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 6392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost_1_b1.mzn"
+	User time (seconds): 0.84
+	System time (seconds): 0.08
+	Percent of CPU this job got: 84%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60956
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 14575
+	Voluntary context switches: 64
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 12056
+	File system outputs: 6616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost_1_b1.mzn"
+	User time (seconds): 0.89
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63228
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15203
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 6840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost_1_b1.mzn"
+	User time (seconds): 0.91
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65216
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15681
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 7064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 94
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost_1_b1.mzn"
+	User time (seconds): 0.92
+	System time (seconds): 0.09
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 66120
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 15921
+	Voluntary context switches: 49
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8600
+	File system outputs: 7296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost_1_b1.mzn"
+	User time (seconds): 0.96
+	System time (seconds): 0.08
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67740
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 16363
+	Voluntary context switches: 60
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 11560
+	File system outputs: 7536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost_1_b1.mzn"
+	User time (seconds): 1.04
+	System time (seconds): 0.07
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70076
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 16854
+	Voluntary context switches: 72
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 12536
+	File system outputs: 7768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost_1_b1.mzn"
+	User time (seconds): 1.01
+	System time (seconds): 0.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 73048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17797
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8008
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost_1_b1.mzn"
+	User time (seconds): 1.04
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 74444
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18111
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8256
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2024
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost_1_b1.mzn"
+	User time (seconds): 1.12
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 76640
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18598
+	Voluntary context switches: 11
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8496
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost_1_b1.mzn"
+	User time (seconds): 0.09
+	System time (seconds): 0.01
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2422
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn
+% obj = 496384
+opt_var_0 = 496384;
+----------
+% obj = 247808
+opt_var_0 = 247808;
+----------
+% obj = 116160
+opt_var_0 = 116160;
+----------
+% obj = 57771
+opt_var_0 = 57771;
+----------
+% obj = 20992
+opt_var_0 = 20992;
+----------
+% obj = 10240
+opt_var_0 = 10240;
+----------
+% obj = 4096
+opt_var_0 = 4096;
+----------
+% obj = 1223
+opt_var_0 = 1223;
+----------
+% obj = 111
+opt_var_0 = 111;
+----------
+% obj = 54
+opt_var_0 = 54;
+----------
+% obj = 25
+opt_var_0 = 25;
+----------
+% obj = 8
+opt_var_0 = 8;
+----------
+% obj = 4
+opt_var_0 = 4;
+----------
+% obj = 4
+==========
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn"
+	User time (seconds): 561.22
+	System time (seconds): 5.20
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:26.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 92476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 20
+	Minor (reclaiming a frame) page faults: 224071
+	Voluntary context switches: 67
+	Involuntary context switches: 270
+	Swaps: 0
+	File system inputs: 7944
+	File system outputs: 40
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost_1_b1.mzn"
+	User time (seconds): 1.10
+	System time (seconds): 0.10
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 79084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 19292
+	Voluntary context switches: 49
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8736
+	File system outputs: 8760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost_1_b1.mzn"
+	User time (seconds): 1.15
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19907
+	Voluntary context switches: 3
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 9016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost_1_b1.mzn"
+	User time (seconds): 1.16
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20356
+	Voluntary context switches: 13
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 9288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost_1_b1.mzn"
+	User time (seconds): 1.20
+	System time (seconds): 0.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 84304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20741
+	Voluntary context switches: 5
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 9552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost_1_b1.mzn"
+	User time (seconds): 1.19
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 86620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21333
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 9808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost_1_b1.mzn"
+	User time (seconds): 1.22
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 88948
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21942
+	Voluntary context switches: 4
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 10080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost_1_b1.mzn"
+	User time (seconds): 1.28
+	System time (seconds): 0.11
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 90820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 22396
+	Voluntary context switches: 26
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 5200
+	File system outputs: 10344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost_1_b1.mzn"
+	User time (seconds): 1.29
+	System time (seconds): 0.13
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 23212
+	Voluntary context switches: 61
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 11528
+	File system outputs: 10616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 91
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost_1_b1.mzn"
+	User time (seconds): 1.36
+	System time (seconds): 0.12
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.64
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95400
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 23647
+	Voluntary context switches: 68
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 13600
+	File system outputs: 10896
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost_1_b1.mzn"
+	User time (seconds): 0.11
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14812
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2602
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn
+% obj = 262141
+opt_var_0 = 262141;
+----------
+% obj = 118789
+opt_var_0 = 118789;
+----------
+% obj = 57344
+opt_var_0 = 57344;
+----------
+% obj = 24576
+opt_var_0 = 24576;
+----------
+% obj = 8200
+opt_var_0 = 8200;
+----------
+% obj = 4100
+opt_var_0 = 4100;
+----------
+% obj = 2048
+opt_var_0 = 2048;
+----------
+% obj = 1024
+opt_var_0 = 1024;
+----------
+% obj = 512
+opt_var_0 = 512;
+----------
+% obj = 256
+opt_var_0 = 256;
+----------
+% obj = 128
+opt_var_0 = 128;
+----------
+% obj = 60
+opt_var_0 = 60;
+----------
+% obj = 28
+opt_var_0 = 28;
+----------
+% obj = 12
+opt_var_0 = 12;
+----------
+% obj = 6
+opt_var_0 = 6;
+----------
+% obj = 4
+opt_var_0 = 4;
+----------
+% obj = 4
+==========
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn"
+	User time (seconds): 546.27
+	System time (seconds): 5.14
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:11.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 153629
+	Voluntary context switches: 26
+	Involuntary context switches: 269
+	Swaps: 0
+	File system inputs: 168
+	File system outputs: 56
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost_1_b1.mzn"
+	User time (seconds): 1.52
+	System time (seconds): 0.12
+	Percent of CPU this job got: 91%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.80
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 31
+	Minor (reclaiming a frame) page faults: 24354
+	Voluntary context switches: 58
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 8680
+	File system outputs: 11456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1976
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost_1_b1.mzn"
+	User time (seconds): 1.55
+	System time (seconds): 0.15
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101208
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25106
+	Voluntary context switches: 11
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 11744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1976
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost_1_b1.mzn"
+	User time (seconds): 1.50
+	System time (seconds): 0.10
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 102908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 25589
+	Voluntary context switches: 72
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 14128
+	File system outputs: 12032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost_1_b1.mzn"
+	User time (seconds): 1.51
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25628
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 12320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost_1_b1.mzn"
+	User time (seconds): 1.57
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 107764
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26373
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 96
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost_1_b1.mzn"
+	User time (seconds): 1.68
+	System time (seconds): 0.16
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 109736
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 30
+	Minor (reclaiming a frame) page faults: 26920
+	Voluntary context switches: 73
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 13520
+	File system outputs: 12912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost_1_b1.mzn"
+	User time (seconds): 1.76
+	System time (seconds): 0.16
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 111760
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27946
+	Voluntary context switches: 11
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 90
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost_1_b1.mzn"
+	User time (seconds): 1.67
+	System time (seconds): 0.11
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 114448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28619
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 13512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1912
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 93
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost_1_b1.mzn"
+	User time (seconds): 1.68
+	System time (seconds): 0.15
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116472
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28652
+	Voluntary context switches: 11
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost_1_b1.mzn"
+	User time (seconds): 0.11
+	System time (seconds): 0.02
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2976
+	Voluntary context switches: 5
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 664
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn
+% obj = 487424
+opt_var_0 = 487424;
+----------
+% obj = 200448
+opt_var_0 = 200448;
+----------
+% obj = 51243
+opt_var_0 = 51243;
+----------
+% obj = 21492
+opt_var_0 = 21492;
+----------
+% obj = 10239
+opt_var_0 = 10239;
+----------
+% obj = 5118
+opt_var_0 = 5118;
+----------
+% obj = 1475
+opt_var_0 = 1475;
+----------
+% obj = 560
+opt_var_0 = 560;
+----------
+% obj = 258
+opt_var_0 = 258;
+----------
+% obj = 129
+opt_var_0 = 129;
+----------
+% obj = 64
+opt_var_0 = 64;
+----------
+% obj = 6
+opt_var_0 = 6;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 95
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost_1_b1.mzn"
+	User time (seconds): 0.14
+	System time (seconds): 0.01
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3100
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn
+% obj = 325632
+opt_var_0 = 325632;
+----------
+% obj = 156656
+opt_var_0 = 156656;
+----------
+% obj = 56820
+opt_var_0 = 56820;
+----------
+% obj = 27648
+opt_var_0 = 27648;
+----------
+% obj = 6996
+opt_var_0 = 6996;
+----------
+% obj = 3072
+opt_var_0 = 3072;
+----------
+% obj = 1504
+opt_var_0 = 1504;
+----------
+% obj = 736
+opt_var_0 = 736;
+----------
+% obj = 256
+opt_var_0 = 256;
+----------
+% obj = 128
+opt_var_0 = 128;
+----------
+% obj = 48
+opt_var_0 = 48;
+----------
+% obj = 22
+opt_var_0 = 22;
+----------
+% obj = 11
+opt_var_0 = 11;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost_1_b1.mzn"
+	User time (seconds): 0.15
+	System time (seconds): 0.01
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3324
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn
+% obj = 393216
+opt_var_0 = 393216;
+----------
+% obj = 196608
+opt_var_0 = 196608;
+----------
+% obj = 33792
+opt_var_0 = 33792;
+----------
+% obj = 16896
+opt_var_0 = 16896;
+----------
+% obj = 510
+opt_var_0 = 510;
+----------
+% obj = 236
+opt_var_0 = 236;
+----------
+% obj = 64
+opt_var_0 = 64;
+----------
+% obj = 32
+opt_var_0 = 32;
+----------
+% obj = 16
+opt_var_0 = 16;
+----------
+% obj = 7
+opt_var_0 = 7;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- mzn2fzn-picat-sat ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G picat-mzn -O- --fzn picat-sat-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost_1_b1.mzn"
+	User time (seconds): 0.16
+	System time (seconds): 0.02
+	Percent of CPU this job got: 55%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 3823
+	Voluntary context switches: 53
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 9704
+	File system outputs: 1032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- picat-sat ---- ###
+% solving(picat-sat-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn)
+% loading picat-sat-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn
+% obj = 495615
+opt_var_0 = 495615;
+----------
+% obj = 237568
+opt_var_0 = 237568;
+----------
+% obj = 118784
+opt_var_0 = 118784;
+----------
+% obj = 59392
+opt_var_0 = 59392;
+----------
+% obj = 29440
+opt_var_0 = 29440;
+----------
+% obj = 8192
+opt_var_0 = 8192;
+----------
+% obj = 4093
+opt_var_0 = 4093;
+----------
+% obj = 1235
+opt_var_0 = 1235;
+----------
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m picat /home/contaldo/solvers/picat/fzn_picat_sat.pi picat-sat-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1948
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 92
+	Voluntary context switches: 2
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

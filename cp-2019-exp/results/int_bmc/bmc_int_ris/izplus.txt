@@ -1,0 +1,3432 @@
+
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost_1_b1.mzn"
+	User time (seconds): 0.18
+	System time (seconds): 0.02
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20720
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4060
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 1160
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn"
+	User time (seconds): 0.38
+	System time (seconds): 0.08
+	Percent of CPU this job got: 50%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 148044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 27034
+	Voluntary context switches: 13
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost_1_b1.mzn"
+	User time (seconds): 0.19
+	System time (seconds): 0.03
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21260
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4267
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn"
+	User time (seconds): 0.99
+	System time (seconds): 0.27
+	Percent of CPU this job got: 70%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.80
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 431408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 97980
+	Voluntary context switches: 8
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22572
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4710
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn"
+	User time (seconds): 91.33
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:31.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 125212
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 46848
+	Voluntary context switches: 25
+	Involuntary context switches: 127
+	Swaps: 0
+	File system inputs: 216
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.04
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23212
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4810
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 1560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn"
+	User time (seconds): 0.42
+	System time (seconds): 0.03
+	Percent of CPU this job got: 43%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 96836
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 14342
+	Voluntary context switches: 19
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost_1_b1.mzn"
+	User time (seconds): 0.25
+	System time (seconds): 0.01
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4955
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn"
+	User time (seconds): 0.96
+	System time (seconds): 0.09
+	Percent of CPU this job got: 81%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 173244
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 33299
+	Voluntary context switches: 28
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost_1_b1.mzn"
+	User time (seconds): 0.25
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5255
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn"
+	User time (seconds): 0.49
+	System time (seconds): 0.07
+	Percent of CPU this job got: 50%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 156192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 29176
+	Voluntary context switches: 12
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost_1_b1.mzn"
+	User time (seconds): 0.27
+	System time (seconds): 0.03
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5514
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn"
+	User time (seconds): 30.22
+	System time (seconds): 6.38
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:37.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12265264
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 2939405
+	Voluntary context switches: 61
+	Involuntary context switches: 48
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost_1_b1.mzn"
+	User time (seconds): 0.30
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5796
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn"
+	User time (seconds): 13.10
+	System time (seconds): 1.68
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3375708
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 720105
+	Voluntary context switches: 19
+	Involuntary context switches: 21
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost_1_b1.mzn"
+	User time (seconds): 0.31
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 28888
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6188
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn"
+	User time (seconds): 5.88
+	System time (seconds): 0.95
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2285440
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 444578
+	Voluntary context switches: 21
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost_1_b1.mzn"
+	User time (seconds): 0.34
+	System time (seconds): 0.03
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6423
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn"
+	User time (seconds): 4.28
+	System time (seconds): 0.70
+	Percent of CPU this job got: 89%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1608192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 275021
+	Voluntary context switches: 36
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost_1_b1.mzn"
+	User time (seconds): 0.36
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31328
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6796
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn"
+	User time (seconds): 6.36
+	System time (seconds): 1.00
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2345512
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 459829
+	Voluntary context switches: 8
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost_1_b1.mzn"
+	User time (seconds): 0.37
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32532
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7091
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 2752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn"
+	User time (seconds): 6.61
+	System time (seconds): 1.24
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2533528
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 506874
+	Voluntary context switches: 22
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 232
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost_1_b1.mzn"
+	User time (seconds): 0.41
+	System time (seconds): 0.03
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7534
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 216
+	File system outputs: 2912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn"
+	User time (seconds): 7.27
+	System time (seconds): 1.35
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2648420
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 535500
+	Voluntary context switches: 21
+	Involuntary context switches: 19
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost_1_b1.mzn"
+	User time (seconds): 0.44
+	System time (seconds): 0.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7879
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn"
+	User time (seconds): 44.31
+	System time (seconds): 1.42
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:46.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2830620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 607905
+	Voluntary context switches: 38
+	Involuntary context switches: 68
+	Swaps: 0
+	File system inputs: 200
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost_1_b1.mzn"
+	User time (seconds): 0.45
+	System time (seconds): 0.02
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8300
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 3248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn"
+	User time (seconds): 5.19
+	System time (seconds): 0.98
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1978264
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 367844
+	Voluntary context switches: 22
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost_1_b1.mzn"
+	User time (seconds): 0.46
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37776
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8482
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 3416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn"
+	User time (seconds): 92.99
+	System time (seconds): 8.51
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:41.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16746928
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 4107544
+	Voluntary context switches: 41
+	Involuntary context switches: 134
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost_1_b1.mzn"
+	User time (seconds): 0.48
+	System time (seconds): 0.04
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39288
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8902
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 3592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn"
+	User time (seconds): 6.00
+	System time (seconds): 1.05
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2289724
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 445985
+	Voluntary context switches: 12
+	Involuntary context switches: 12
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost_1_b1.mzn"
+	User time (seconds): 0.50
+	System time (seconds): 0.05
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40300
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9143
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 3768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn"
+	User time (seconds): 6.77
+	System time (seconds): 1.18
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2453056
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 486880
+	Voluntary context switches: 17
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost_1_b1.mzn"
+	User time (seconds): 0.52
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9705
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 3952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn"
+	User time (seconds): 4.02
+	System time (seconds): 0.58
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1573500
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 266691
+	Voluntary context switches: 29
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost_1_b1.mzn"
+	User time (seconds): 0.54
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9980
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 4136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn"
+	User time (seconds): 141.97
+	System time (seconds): 4.21
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:26.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7566836
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1994010
+	Voluntary context switches: 51
+	Involuntary context switches: 191
+	Swaps: 0
+	File system inputs: 992
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.00
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12396
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1905
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn"
+	User time (seconds): 0.20
+	System time (seconds): 0.03
+	Percent of CPU this job got: 53%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83556
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15666
+	Voluntary context switches: 8
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost_1_b1.mzn"
+	User time (seconds): 0.55
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 44940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10379
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn"
+	User time (seconds): 4.86
+	System time (seconds): 0.87
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1833564
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 331940
+	Voluntary context switches: 24
+	Involuntary context switches: 12
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost_1_b1.mzn"
+	User time (seconds): 0.61
+	System time (seconds): 0.04
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10613
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 4520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn"
+	User time (seconds): 4.59
+	System time (seconds): 0.91
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2093688
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 397078
+	Voluntary context switches: 12
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost_1_b1.mzn"
+	User time (seconds): 0.62
+	System time (seconds): 0.05
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47452
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11028
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn"
+	User time (seconds): 88.95
+	System time (seconds): 0.50
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:29.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1191348
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 341678
+	Voluntary context switches: 19
+	Involuntary context switches: 92
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost_1_b1.mzn"
+	User time (seconds): 0.62
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 48680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11383
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 4912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn"
+	User time (seconds): 6.58
+	System time (seconds): 1.17
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2296064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 447858
+	Voluntary context switches: 24
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost_1_b1.mzn"
+	User time (seconds): 0.67
+	System time (seconds): 0.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.74
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11870
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5120
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn"
+	User time (seconds): 41.50
+	System time (seconds): 4.42
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:46.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8584880
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 2022341
+	Voluntary context switches: 56
+	Involuntary context switches: 61
+	Swaps: 0
+	File system inputs: 984
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost_1_b1.mzn"
+	User time (seconds): 0.71
+	System time (seconds): 0.05
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52288
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12277
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 5320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn"
+	User time (seconds): 131.94
+	System time (seconds): 19.42
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:32.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34549784
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 8514192
+	Voluntary context switches: 137
+	Involuntary context switches: 203
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost_1_b1.mzn"
+	User time (seconds): 0.71
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53172
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12503
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 5528
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn"
+	User time (seconds): 16.64
+	System time (seconds): 2.31
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4696084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1048003
+	Voluntary context switches: 29
+	Involuntary context switches: 26
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost_1_b1.mzn"
+	User time (seconds): 0.76
+	System time (seconds): 0.09
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 55160
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13029
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 5744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn"
+	User time (seconds): 7.33
+	System time (seconds): 1.15
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2435888
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 483606
+	Voluntary context switches: 15
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost_1_b1.mzn"
+	User time (seconds): 0.77
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 56452
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13402
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 5952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn"
+	User time (seconds): 6.66
+	System time (seconds): 1.03
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2157296
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 413228
+	Voluntary context switches: 26
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost_1_b1.mzn"
+	User time (seconds): 0.79
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.88
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58264
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13872
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 6176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn"
+	User time (seconds): 22.07
+	System time (seconds): 3.18
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:25.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6255104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1437858
+	Voluntary context switches: 29
+	Involuntary context switches: 34
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.01
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2156
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn"
+	User time (seconds): 0.56
+	System time (seconds): 0.08
+	Percent of CPU this job got: 76%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 200476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 42431
+	Voluntary context switches: 8
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost_1_b1.mzn"
+	User time (seconds): 0.82
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14335
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 6392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn"
+	User time (seconds): 5.53
+	System time (seconds): 0.78
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1744848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 309832
+	Voluntary context switches: 14
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost_1_b1.mzn"
+	User time (seconds): 0.84
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 61128
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14597
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 6616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn"
+	User time (seconds): 100.69
+	System time (seconds): 1.56
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:43.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2673004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 792532
+	Voluntary context switches: 57
+	Involuntary context switches: 149
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost_1_b1.mzn"
+	User time (seconds): 0.91
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63256
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15194
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 6840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn"
+	User time (seconds): 11.86
+	System time (seconds): 1.64
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3458400
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 738864
+	Voluntary context switches: 24
+	Involuntary context switches: 22
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost_1_b1.mzn"
+	User time (seconds): 0.92
+	System time (seconds): 0.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15720
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 7064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn"
+	User time (seconds): 32.02
+	System time (seconds): 4.34
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8078100
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1893855
+	Voluntary context switches: 49
+	Involuntary context switches: 48
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost_1_b1.mzn"
+	User time (seconds): 1.05
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 66756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16119
+	Voluntary context switches: 11
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 7296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn"
+	User time (seconds): 49.45
+	System time (seconds): 5.64
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:55.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10346632
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 2461951
+	Voluntary context switches: 51
+	Involuntary context switches: 73
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost_1_b1.mzn"
+	User time (seconds): 0.97
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16382
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 7536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn"
+	User time (seconds): 12.14
+	System time (seconds): 1.93
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3692200
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 798239
+	Voluntary context switches: 23
+	Involuntary context switches: 24
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost_1_b1.mzn"
+	User time (seconds): 0.98
+	System time (seconds): 0.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70188
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16988
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 7768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn"
+	User time (seconds): 44.22
+	System time (seconds): 3.31
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:48.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6142184
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1447308
+	Voluntary context switches: 42
+	Involuntary context switches: 66
+	Swaps: 0
+	File system inputs: 984
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost_1_b1.mzn"
+	User time (seconds): 1.02
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 73160
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17764
+	Voluntary context switches: 5
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 24
+	File system outputs: 8008
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn"
+	User time (seconds): 80.18
+	System time (seconds): 5.72
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:26.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10346504
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 2519479
+	Voluntary context switches: 40
+	Involuntary context switches: 117
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost_1_b1.mzn"
+	User time (seconds): 1.08
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 74576
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18113
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 24
+	File system outputs: 8256
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn"
+	User time (seconds): 5.48
+	System time (seconds): 0.80
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1848596
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 336098
+	Voluntary context switches: 19
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost_1_b1.mzn"
+	User time (seconds): 1.08
+	System time (seconds): 0.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 76788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18689
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8496
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn"
+	User time (seconds): 5.25
+	System time (seconds): 0.82
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1948244
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 361161
+	Voluntary context switches: 8
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.01
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2434
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn"
+	User time (seconds): 0.27
+	System time (seconds): 0.03
+	Percent of CPU this job got: 60%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 99460
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17190
+	Voluntary context switches: 9
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost_1_b1.mzn"
+	User time (seconds): 1.11
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 79056
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19330
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 8760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn"
+	User time (seconds): 13.54
+	System time (seconds): 1.06
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2049272
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 397106
+	Voluntary context switches: 22
+	Involuntary context switches: 21
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost_1_b1.mzn"
+	User time (seconds): 1.17
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81412
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19919
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 9016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn"
+	User time (seconds): 45.60
+	System time (seconds): 4.65
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:50.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8152592
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1930913
+	Voluntary context switches: 33
+	Involuntary context switches: 68
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost_1_b1.mzn"
+	User time (seconds): 1.15
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20362
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 9288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn"
+	User time (seconds): 109.79
+	System time (seconds): 9.89
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:59.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 18777996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4584756
+	Voluntary context switches: 100
+	Involuntary context switches: 154
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost_1_b1.mzn"
+	User time (seconds): 1.17
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 84364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20743
+	Voluntary context switches: 12
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 9552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn"
+	User time (seconds): 7.91
+	System time (seconds): 1.26
+	Percent of CPU this job got: 94%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2564588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 515060
+	Voluntary context switches: 12
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost_1_b1.mzn"
+	User time (seconds): 1.25
+	System time (seconds): 0.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 86792
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21308
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 9808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn"
+	User time (seconds): 59.06
+	System time (seconds): 7.92
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:07.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15595192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3798895
+	Voluntary context switches: 57
+	Involuntary context switches: 87
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost_1_b1.mzn"
+	User time (seconds): 1.21
+	System time (seconds): 0.16
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 89056
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21900
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 10080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn"
+	User time (seconds): 24.80
+	System time (seconds): 2.50
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4753752
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1075164
+	Voluntary context switches: 28
+	Involuntary context switches: 37
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost_1_b1.mzn"
+	User time (seconds): 1.28
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 90896
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 22424
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 10344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn"
+	User time (seconds): 44.17
+	System time (seconds): 0.88
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:45.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1861676
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 391829
+	Voluntary context switches: 34
+	Involuntary context switches: 62
+	Swaps: 0
+	File system inputs: 976
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost_1_b1.mzn"
+	User time (seconds): 1.30
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23212
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 10616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn"
+	User time (seconds): 31.66
+	System time (seconds): 3.91
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7685436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 1796635
+	Voluntary context switches: 21
+	Involuntary context switches: 50
+	Swaps: 0
+	File system inputs: 856
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost_1_b1.mzn"
+	User time (seconds): 1.33
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23677
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 10896
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn"
+	User time (seconds): 50.01
+	System time (seconds): 4.60
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:55.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8750376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 2098002
+	Voluntary context switches: 53
+	Involuntary context switches: 77
+	Swaps: 0
+	File system inputs: 856
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost_1_b1.mzn"
+	User time (seconds): 0.11
+	System time (seconds): 0.00
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15020
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2583
+	Voluntary context switches: 5
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn"
+	User time (seconds): 0.26
+	System time (seconds): 0.04
+	Percent of CPU this job got: 36%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 99032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 17136
+	Voluntary context switches: 12
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 848
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost_1_b1.mzn"
+	User time (seconds): 1.38
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98128
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24355
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 11456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn"
+	User time (seconds): 6.82
+	System time (seconds): 0.97
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2319108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 453580
+	Voluntary context switches: 20
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 848
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost_1_b1.mzn"
+	User time (seconds): 1.43
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25116
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 11744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn"
+	User time (seconds): 26.48
+	System time (seconds): 1.36
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:28.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2703636
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 609244
+	Voluntary context switches: 37
+	Involuntary context switches: 37
+	Swaps: 0
+	File system inputs: 848
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost_1_b1.mzn"
+	User time (seconds): 1.47
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 102756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25593
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 12032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn"
+	User time (seconds): 49.72
+	System time (seconds): 3.01
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:53.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 5224376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 1361505
+	Voluntary context switches: 35
+	Involuntary context switches: 71
+	Swaps: 0
+	File system inputs: 856
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost_1_b1.mzn"
+	User time (seconds): 1.52
+	System time (seconds): 0.13
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26135
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn"
+	User time (seconds): 51.96
+	System time (seconds): 1.20
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:53.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2403936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 577667
+	Voluntary context switches: 30
+	Involuntary context switches: 72
+	Swaps: 0
+	File system inputs: 984
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost_1_b1.mzn"
+	User time (seconds): 1.54
+	System time (seconds): 0.14
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 107720
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26831
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn"
+	User time (seconds): 7.88
+	System time (seconds): 1.18
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2575340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 518238
+	Voluntary context switches: 16
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost_1_b1.mzn"
+	User time (seconds): 1.60
+	System time (seconds): 0.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 109800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27387
+	Voluntary context switches: 4
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 12912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn"
+	User time (seconds): 12.48
+	System time (seconds): 0.70
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:13.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1619476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 300032
+	Voluntary context switches: 19
+	Involuntary context switches: 21
+	Swaps: 0
+	File system inputs: 200
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost_1_b1.mzn"
+	User time (seconds): 1.56
+	System time (seconds): 0.16
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 111620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27410
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn"
+	User time (seconds): 4.78
+	System time (seconds): 0.70
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1603432
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 275120
+	Voluntary context switches: 16
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost_1_b1.mzn"
+	User time (seconds): 1.63
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 114420
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28146
+	Voluntary context switches: 11
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 13512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn"
+	User time (seconds): 64.42
+	System time (seconds): 1.18
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:06.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2002680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 544923
+	Voluntary context switches: 49
+	Involuntary context switches: 97
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost_1_b1.mzn"
+	User time (seconds): 1.68
+	System time (seconds): 0.16
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116368
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 29230
+	Voluntary context switches: 3
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+Command terminated by signal 9
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn"
+	User time (seconds): 298.05
+	System time (seconds): 31.22
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:29.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53624200
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13468618
+	Voluntary context switches: 29
+	Involuntary context switches: 415
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost_1_b1.mzn"
+	User time (seconds): 0.12
+	System time (seconds): 0.02
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16336
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2975
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 664
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn"
+	User time (seconds): 0.45
+	System time (seconds): 0.07
+	Percent of CPU this job got: 48%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 159380
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 29695
+	Voluntary context switches: 13
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost_1_b1.mzn"
+	User time (seconds): 0.13
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16924
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3097
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn"
+	User time (seconds): 0.23
+	System time (seconds): 0.04
+	Percent of CPU this job got: 33%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 97916
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 14339
+	Voluntary context switches: 15
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost_1_b1.mzn"
+	User time (seconds): 0.13
+	System time (seconds): 0.01
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17836
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3325
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn"
+	User time (seconds): 0.91
+	System time (seconds): 0.13
+	Percent of CPU this job got: 83%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 274768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 58563
+	Voluntary context switches: 10
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- mzn2fzn-izplus ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G izc -O- --fzn izplus-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost_1_b1.mzn"
+	User time (seconds): 0.17
+	System time (seconds): 0.02
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19600
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3839
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 1032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- izplus---- ###
+% Warning: search strategy is always ignored.
+timeout: the monitored command dumped core
+Command terminated by signal 11
+	Command being timed: "timeout --signal=SIGKILL 10m fzn_izplus izplus-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn"
+	User time (seconds): 0.86
+	System time (seconds): 0.08
+	Percent of CPU this job got: 61%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 164008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 31032
+	Voluntary context switches: 16
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 968
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

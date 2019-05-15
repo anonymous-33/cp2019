@@ -1,0 +1,3499 @@
+
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n10_cost_1_b1.mzn"
+	User time (seconds): 0.19
+	System time (seconds): 0.02
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20600
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4089
+	Voluntary context switches: 3
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1160
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x20b36a000, redzone=0x20b3aa000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n10_cost.fzn"
+	User time (seconds): 177.21
+	System time (seconds): 5.68
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:02.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10469168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 3055462
+	Voluntary context switches: 12
+	Involuntary context switches: 212
+	Swaps: 0
+	File system inputs: 240
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n11_cost_1_b1.mzn"
+	User time (seconds): 0.18
+	System time (seconds): 0.04
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 21120
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4235
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 408
+	File system outputs: 1288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2a2496000, redzone=0x2a24d6000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n11_cost.fzn"
+	User time (seconds): 172.96
+	System time (seconds): 7.66
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:00.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11015584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 5584299
+	Voluntary context switches: 103
+	Involuntary context switches: 232
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n12_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.02
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 22716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4698
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 440
+	File system outputs: 1424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x25d821000, redzone=0x25d861000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n12_cost.fzn"
+	User time (seconds): 177.76
+	System time (seconds): 5.47
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:03.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9882784
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 2888136
+	Voluntary context switches: 102
+	Involuntary context switches: 214
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n13_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.04
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23220
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4806
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 488
+	File system outputs: 1560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x173668000, redzone=0x1736a8000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n13_cost.fzn"
+	User time (seconds): 177.42
+	System time (seconds): 5.40
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:03.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9864864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 84
+	Minor (reclaiming a frame) page faults: 2954653
+	Voluntary context switches: 97
+	Involuntary context switches: 211
+	Swaps: 0
+	File system inputs: 17416
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n14_cost_1_b1.mzn"
+	User time (seconds): 0.22
+	System time (seconds): 0.03
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4931
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 536
+	File system outputs: 1696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1f0e99000, redzone=0x1f0ed9000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n14_cost.fzn"
+	User time (seconds): 182.54
+	System time (seconds): 9.40
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:11.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9933800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8567647
+	Voluntary context switches: 11
+	Involuntary context switches: 247
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n15_cost_1_b1.mzn"
+	User time (seconds): 0.26
+	System time (seconds): 0.03
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 25440
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5255
+	Voluntary context switches: 5
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 584
+	File system outputs: 1840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1e3de6000, redzone=0x1e3e26000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n15_cost.fzn"
+	User time (seconds): 179.77
+	System time (seconds): 6.62
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:06.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9919380
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4641687
+	Voluntary context switches: 12
+	Involuntary context switches: 217
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n16_cost_1_b1.mzn"
+	User time (seconds): 0.24
+	System time (seconds): 0.04
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 26356
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5507
+	Voluntary context switches: 5
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 640
+	File system outputs: 1984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x274156000, redzone=0x274196000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n16_cost.fzn"
+	User time (seconds): 181.18
+	System time (seconds): 5.40
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:06.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10256496
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2995846
+	Voluntary context switches: 11
+	Involuntary context switches: 216
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n17_cost_1_b1.mzn"
+	User time (seconds): 0.30
+	System time (seconds): 0.02
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5790
+	Voluntary context switches: 6
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 704
+	File system outputs: 2128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x29e4a8000, redzone=0x29e4e8000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n17_cost.fzn"
+	User time (seconds): 175.95
+	System time (seconds): 5.83
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:01.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10960028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3428718
+	Voluntary context switches: 11
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n18_cost_1_b1.mzn"
+	User time (seconds): 0.32
+	System time (seconds): 0.03
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 28828
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6203
+	Voluntary context switches: 5
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 744
+	File system outputs: 2280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2159e9000, redzone=0x215a29000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n18_cost.fzn"
+	User time (seconds): 184.90
+	System time (seconds): 5.55
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:10.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10243260
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3070138
+	Voluntary context switches: 11
+	Involuntary context switches: 221
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n19_cost_1_b1.mzn"
+	User time (seconds): 0.34
+	System time (seconds): 0.03
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29932
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6411
+	Voluntary context switches: 5
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 800
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x29e92e000, redzone=0x29e96e000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n19_cost.fzn"
+	User time (seconds): 176.44
+	System time (seconds): 5.68
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:02.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10955724
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2700663
+	Voluntary context switches: 10
+	Involuntary context switches: 221
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n20_cost_1_b1.mzn"
+	User time (seconds): 0.38
+	System time (seconds): 0.02
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31344
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6791
+	Voluntary context switches: 8
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 880
+	File system outputs: 2592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1eabff000, redzone=0x1eac3f000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n20_cost.fzn"
+	User time (seconds): 184.18
+	System time (seconds): 5.52
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:09.97
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10032700
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 76
+	Minor (reclaiming a frame) page faults: 3040275
+	Voluntary context switches: 87
+	Involuntary context switches: 222
+	Swaps: 0
+	File system inputs: 14752
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n21_cost_1_b1.mzn"
+	User time (seconds): 0.37
+	System time (seconds): 0.04
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32440
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7092
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 920
+	File system outputs: 2752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1e677b000, redzone=0x1e67bb000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n21_cost.fzn"
+	User time (seconds): 180.40
+	System time (seconds): 5.43
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:05.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9934300
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2935602
+	Voluntary context switches: 9
+	Involuntary context switches: 218
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n22_cost_1_b1.mzn"
+	User time (seconds): 0.40
+	System time (seconds): 0.04
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34160
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7521
+	Voluntary context switches: 6
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 984
+	File system outputs: 2912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x26668b000, redzone=0x2666cb000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n22_cost.fzn"
+	User time (seconds): 184.81
+	System time (seconds): 5.62
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:10.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10597648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 3306147
+	Voluntary context switches: 108
+	Involuntary context switches: 217
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n23_cost_1_b1.mzn"
+	User time (seconds): 0.42
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7882
+	Voluntary context switches: 6
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1040
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1aca1d000, redzone=0x1aca5d000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n23_cost.fzn"
+	User time (seconds): 181.81
+	System time (seconds): 5.48
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:07.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9855652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 3041741
+	Voluntary context switches: 99
+	Involuntary context switches: 218
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n24_cost_1_b1.mzn"
+	User time (seconds): 0.47
+	System time (seconds): 0.03
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8312
+	Voluntary context switches: 8
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1120
+	File system outputs: 3248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32779 redzone
+base=0x29154c000, redzone=0x29158c000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n24_cost.fzn"
+	User time (seconds): 181.59
+	System time (seconds): 5.92
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:07.78
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10748964
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 77
+	Minor (reclaiming a frame) page faults: 2775221
+	Voluntary context switches: 94
+	Involuntary context switches: 217
+	Swaps: 0
+	File system inputs: 15968
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n25_cost_1_b1.mzn"
+	User time (seconds): 0.48
+	System time (seconds): 0.03
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 37664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8493
+	Voluntary context switches: 7
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1176
+	File system outputs: 3416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x278d5b000, redzone=0x278d9b000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n25_cost.fzn"
+	User time (seconds): 187.28
+	System time (seconds): 7.58
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:15.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10406648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 4392735
+	Voluntary context switches: 106
+	Involuntary context switches: 249
+	Swaps: 0
+	File system inputs: 18536
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n26_cost_1_b1.mzn"
+	User time (seconds): 0.50
+	System time (seconds): 0.04
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39300
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8899
+	Voluntary context switches: 7
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1240
+	File system outputs: 3592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x29e6ff000, redzone=0x29e73f000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n26_cost.fzn"
+	User time (seconds): 190.18
+	System time (seconds): 7.66
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:18.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11101824
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 5409189
+	Voluntary context switches: 104
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 18536
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n27_cost_1_b1.mzn"
+	User time (seconds): 0.50
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 40348
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9161
+	Voluntary context switches: 7
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1304
+	File system outputs: 3768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2a6007000, redzone=0x2a6047000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n27_cost.fzn"
+	User time (seconds): 179.82
+	System time (seconds): 5.71
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:05.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11088876
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 88
+	Minor (reclaiming a frame) page faults: 2699875
+	Voluntary context switches: 103
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 18488
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n28_cost_1_b1.mzn"
+	User time (seconds): 0.54
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 42232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9692
+	Voluntary context switches: 8
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 1384
+	File system outputs: 3952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32762 redzone
+base=0x1f9731000, redzone=0x1f9771000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n28_cost.fzn"
+	User time (seconds): 193.87
+	System time (seconds): 9.18
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:23.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10098388
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 84
+	Minor (reclaiming a frame) page faults: 7244033
+	Voluntary context switches: 100
+	Involuntary context switches: 263
+	Swaps: 0
+	File system inputs: 16120
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n29_cost_1_b1.mzn"
+	User time (seconds): 0.58
+	System time (seconds): 0.04
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43136
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9954
+	Voluntary context switches: 8
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1448
+	File system outputs: 4136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2975d9000, redzone=0x297619000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n29_cost.fzn"
+	User time (seconds): 178.41
+	System time (seconds): 5.56
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:04.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10836428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 84
+	Minor (reclaiming a frame) page faults: 2752821
+	Voluntary context switches: 98
+	Involuntary context switches: 217
+	Swaps: 0
+	File system inputs: 16120
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n2_cost_1_b1.mzn"
+	User time (seconds): 0.05
+	System time (seconds): 0.02
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 12424
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1893
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 64
+	File system outputs: 208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#65251 redzone
+base=0x27c1fe000, redzone=0x27c23e000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n2_cost.fzn"
+	User time (seconds): 322.20
+	System time (seconds): 17.86
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:40.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10405380
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 73
+	Minor (reclaiming a frame) page faults: 18414020
+	Voluntary context switches: 180
+	Involuntary context switches: 450
+	Swaps: 0
+	File system inputs: 13688
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n30_cost_1_b1.mzn"
+	User time (seconds): 0.58
+	System time (seconds): 0.05
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 44964
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10372
+	Voluntary context switches: 8
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1520
+	File system outputs: 4328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x21b3f7000, redzone=0x21b437000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n30_cost.fzn"
+	User time (seconds): 187.34
+	System time (seconds): 5.54
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:12.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10250952
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3032698
+	Voluntary context switches: 12
+	Involuntary context switches: 222
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n31_cost_1_b1.mzn"
+	User time (seconds): 0.60
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 46004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10630
+	Voluntary context switches: 8
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1600
+	File system outputs: 4520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32763 redzone
+base=0x27fcc2000, redzone=0x27fd02000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n31_cost.fzn"
+	User time (seconds): 197.19
+	System time (seconds): 9.27
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:26.74
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10601196
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 73
+	Minor (reclaiming a frame) page faults: 7514998
+	Voluntary context switches: 89
+	Involuntary context switches: 237
+	Swaps: 0
+	File system inputs: 13688
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n32_cost_1_b1.mzn"
+	User time (seconds): 0.65
+	System time (seconds): 0.05
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47440
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11072
+	Voluntary context switches: 10
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 1680
+	File system outputs: 4720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32790 redzone
+base=0x254227000, redzone=0x254267000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n32_cost.fzn"
+	User time (seconds): 189.52
+	System time (seconds): 5.38
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:15.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10522644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 2965001
+	Voluntary context switches: 80
+	Involuntary context switches: 224
+	Swaps: 0
+	File system inputs: 11480
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n33_cost_1_b1.mzn"
+	User time (seconds): 0.63
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 48588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11384
+	Voluntary context switches: 9
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1752
+	File system outputs: 4912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1e5003000, redzone=0x1e5043000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n33_cost.fzn"
+	User time (seconds): 183.60
+	System time (seconds): 5.29
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:08.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9879036
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3004786
+	Voluntary context switches: 14
+	Involuntary context switches: 221
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n34_cost_1_b1.mzn"
+	User time (seconds): 0.68
+	System time (seconds): 0.05
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 50488
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11852
+	Voluntary context switches: 10
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 2072
+	File system outputs: 5120
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2593f8000, redzone=0x259438000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n34_cost.fzn"
+	User time (seconds): 183.23
+	System time (seconds): 4.41
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:07.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9880308
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 1994173
+	Voluntary context switches: 14
+	Involuntary context switches: 218
+	Swaps: 0
+	File system inputs: 128
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n35_cost_1_b1.mzn"
+	User time (seconds): 0.72
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12294
+	Voluntary context switches: 11
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 1920
+	File system outputs: 5320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2a3820000, redzone=0x2a3860000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n35_cost.fzn"
+	User time (seconds): 174.80
+	System time (seconds): 5.46
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11051972
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 2548650
+	Voluntary context switches: 17
+	Involuntary context switches: 212
+	Swaps: 0
+	File system inputs: 128
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n36_cost_1_b1.mzn"
+	User time (seconds): 0.73
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 53060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12485
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2240
+	File system outputs: 5528
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1efe31000, redzone=0x1efe71000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n36_cost.fzn"
+	User time (seconds): 181.66
+	System time (seconds): 5.38
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:07.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9883164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 29
+	Minor (reclaiming a frame) page faults: 2933006
+	Voluntary context switches: 42
+	Involuntary context switches: 218
+	Swaps: 0
+	File system inputs: 5656
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n37_cost_1_b1.mzn"
+	User time (seconds): 0.76
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 55172
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13014
+	Voluntary context switches: 11
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2088
+	File system outputs: 5744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x1fc3b9000, redzone=0x1fc3f9000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n37_cost.fzn"
+	User time (seconds): 183.54
+	System time (seconds): 5.27
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:08.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10413580
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3009322
+	Voluntary context switches: 16
+	Involuntary context switches: 215
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n38_cost_1_b1.mzn"
+	User time (seconds): 0.78
+	System time (seconds): 0.07
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 56520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13396
+	Voluntary context switches: 11
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2168
+	File system outputs: 5952
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x206413000, redzone=0x206453000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n38_cost.fzn"
+	User time (seconds): 185.34
+	System time (seconds): 5.37
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:10.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10168180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 2957470
+	Voluntary context switches: 13
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 120
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n39_cost_1_b1.mzn"
+	User time (seconds): 0.80
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 13854
+	Voluntary context switches: 11
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2248
+	File system outputs: 6176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x231b4f000, redzone=0x231b8f000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n39_cost.fzn"
+	User time (seconds): 187.62
+	System time (seconds): 8.47
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:16.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10548072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 43
+	Minor (reclaiming a frame) page faults: 6606101
+	Voluntary context switches: 54
+	Involuntary context switches: 254
+	Swaps: 0
+	File system inputs: 6328
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n3_cost_1_b1.mzn"
+	User time (seconds): 0.06
+	System time (seconds): 0.00
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 13552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2153
+	Voluntary context switches: 4
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 88
+	File system outputs: 328
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2aec97000, redzone=0x2aecd7000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n3_cost.fzn"
+	User time (seconds): 164.77
+	System time (seconds): 5.89
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:50.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11220376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 53
+	Minor (reclaiming a frame) page faults: 3004542
+	Voluntary context switches: 60
+	Involuntary context switches: 218
+	Swaps: 0
+	File system inputs: 8800
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n40_cost_1_b1.mzn"
+	User time (seconds): 0.90
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 60316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14352
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2344
+	File system outputs: 6392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x221e4c000, redzone=0x221e8c000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n40_cost.fzn"
+	User time (seconds): 188.15
+	System time (seconds): 6.55
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:14.74
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10287380
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 11
+	Minor (reclaiming a frame) page faults: 4603097
+	Voluntary context switches: 25
+	Involuntary context switches: 225
+	Swaps: 0
+	File system inputs: 304
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n41_cost_1_b1.mzn"
+	User time (seconds): 0.84
+	System time (seconds): 0.11
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 61024
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 14586
+	Voluntary context switches: 12
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2432
+	File system outputs: 6616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2413fa000, redzone=0x24143a000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n41_cost.fzn"
+	User time (seconds): 189.51
+	System time (seconds): 5.67
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:15.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10387464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 53
+	Minor (reclaiming a frame) page faults: 2921047
+	Voluntary context switches: 70
+	Involuntary context switches: 248
+	Swaps: 0
+	File system inputs: 9224
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n42_cost_1_b1.mzn"
+	User time (seconds): 0.90
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15209
+	Voluntary context switches: 12
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2528
+	File system outputs: 6840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32763 redzone
+base=0x222eb1000, redzone=0x222ef1000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n42_cost.fzn"
+	User time (seconds): 195.26
+	System time (seconds): 9.37
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:24.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10290432
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 8149257
+	Voluntary context switches: 111
+	Involuntary context switches: 272
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n43_cost_1_b1.mzn"
+	User time (seconds): 0.95
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65160
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15677
+	Voluntary context switches: 13
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2616
+	File system outputs: 7064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x262a3c000, redzone=0x262a7c000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n43_cost.fzn"
+	User time (seconds): 192.88
+	System time (seconds): 9.67
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:22.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10406408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7456369
+	Voluntary context switches: 15
+	Involuntary context switches: 264
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n44_cost_1_b1.mzn"
+	User time (seconds): 0.90
+	System time (seconds): 0.11
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 66084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 15932
+	Voluntary context switches: 13
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 2712
+	File system outputs: 7296
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32763 redzone
+base=0x29feae000, redzone=0x29feee000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n44_cost.fzn"
+	User time (seconds): 192.10
+	System time (seconds): 6.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:18.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11118260
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 3299633
+	Voluntary context switches: 107
+	Involuntary context switches: 226
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n45_cost_1_b1.mzn"
+	User time (seconds): 0.97
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67924
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16374
+	Voluntary context switches: 13
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2816
+	File system outputs: 7536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2aaaee000, redzone=0x2aab2e000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n45_cost.fzn"
+	User time (seconds): 188.92
+	System time (seconds): 8.54
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:17.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11152464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 6983378
+	Voluntary context switches: 102
+	Involuntary context switches: 236
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n46_cost_1_b1.mzn"
+	User time (seconds): 1.03
+	System time (seconds): 0.06
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70180
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17005
+	Voluntary context switches: 13
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 2912
+	File system outputs: 7768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32764 redzone
+base=0x24f5ac000, redzone=0x24f5ec000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n46_cost.fzn"
+	User time (seconds): 192.19
+	System time (seconds): 4.98
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:17.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10412116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 1754251
+	Voluntary context switches: 107
+	Involuntary context switches: 230
+	Swaps: 0
+	File system inputs: 18536
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n47_cost_1_b1.mzn"
+	User time (seconds): 1.04
+	System time (seconds): 0.08
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 73068
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 17800
+	Voluntary context switches: 15
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 3016
+	File system outputs: 8008
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x29fde2000, redzone=0x29fe22000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n47_cost.fzn"
+	User time (seconds): 184.69
+	System time (seconds): 8.03
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:13.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10980776
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 5352987
+	Voluntary context switches: 105
+	Involuntary context switches: 252
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n48_cost_1_b1.mzn"
+	User time (seconds): 1.08
+	System time (seconds): 0.08
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 74536
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18114
+	Voluntary context switches: 14
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3120
+	File system outputs: 8256
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x26b99c000, redzone=0x26b9dc000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n48_cost.fzn"
+	User time (seconds): 200.63
+	System time (seconds): 10.65
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:31.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10136312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 8919494
+	Voluntary context switches: 111
+	Involuntary context switches: 284
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n49_cost_1_b1.mzn"
+	User time (seconds): 1.08
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 76824
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18672
+	Voluntary context switches: 15
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3224
+	File system outputs: 8496
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32858 redzone
+base=0x26bd04000, redzone=0x26bd44000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n49_cost.fzn"
+	User time (seconds): 203.17
+	System time (seconds): 10.30
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:33.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10137964
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 8730702
+	Voluntary context switches: 111
+	Involuntary context switches: 254
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n4_cost_1_b1.mzn"
+	User time (seconds): 0.08
+	System time (seconds): 0.00
+	Percent of CPU this job got: 90%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14484
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2417
+	Voluntary context switches: 4
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 120
+	File system outputs: 440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2777b6000, redzone=0x2777f6000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n4_cost.fzn"
+	User time (seconds): 163.66
+	System time (seconds): 5.63
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:49.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10328880
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2751414
+	Voluntary context switches: 8
+	Involuntary context switches: 199
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n50_cost_1_b1.mzn"
+	User time (seconds): 1.18
+	System time (seconds): 0.10
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 79116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19310
+	Voluntary context switches: 23
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 3328
+	File system outputs: 8760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32762 redzone
+base=0x2ad528000, redzone=0x2ad568000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n50_cost.fzn"
+	User time (seconds): 194.20
+	System time (seconds): 10.23
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:24.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11188492
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8281109
+	Voluntary context switches: 19
+	Involuntary context switches: 255
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n51_cost_1_b1.mzn"
+	User time (seconds): 1.14
+	System time (seconds): 0.11
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 81276
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 19907
+	Voluntary context switches: 15
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3432
+	File system outputs: 9016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x29277a000, redzone=0x2927ba000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n51_cost.fzn"
+	User time (seconds): 180.92
+	System time (seconds): 4.55
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:05.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10767232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 80
+	Minor (reclaiming a frame) page faults: 1695752
+	Voluntary context switches: 97
+	Involuntary context switches: 217
+	Swaps: 0
+	File system inputs: 16032
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n52_cost_1_b1.mzn"
+	User time (seconds): 1.16
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 83076
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20358
+	Voluntary context switches: 16
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3544
+	File system outputs: 9288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x292857000, redzone=0x292897000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n52_cost.fzn"
+	User time (seconds): 183.52
+	System time (seconds): 5.65
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:09.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10750108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 74
+	Minor (reclaiming a frame) page faults: 2795762
+	Voluntary context switches: 90
+	Involuntary context switches: 224
+	Swaps: 0
+	File system inputs: 15440
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n53_cost_1_b1.mzn"
+	User time (seconds): 1.18
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 84372
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20742
+	Voluntary context switches: 16
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 3656
+	File system outputs: 9552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x270969000, redzone=0x2709a9000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n53_cost.fzn"
+	User time (seconds): 191.55
+	System time (seconds): 6.09
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:17.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10952676
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 3182592
+	Voluntary context switches: 79
+	Involuntary context switches: 251
+	Swaps: 0
+	File system inputs: 13568
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n54_cost_1_b1.mzn"
+	User time (seconds): 1.25
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 86576
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21334
+	Voluntary context switches: 17
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 3768
+	File system outputs: 9808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2a4118000, redzone=0x2a4158000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n54_cost.fzn"
+	User time (seconds): 191.20
+	System time (seconds): 6.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:17.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11152368
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 3199393
+	Voluntary context switches: 78
+	Involuntary context switches: 224
+	Swaps: 0
+	File system inputs: 13568
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n55_cost_1_b1.mzn"
+	User time (seconds): 1.26
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 88748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21938
+	Voluntary context switches: 17
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 3880
+	File system outputs: 10080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x277fd2000, redzone=0x278012000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n55_cost.fzn"
+	User time (seconds): 186.61
+	System time (seconds): 8.28
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:14.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10336408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6861775
+	Voluntary context switches: 15
+	Involuntary context switches: 253
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n56_cost_1_b1.mzn"
+	User time (seconds): 1.31
+	System time (seconds): 0.10
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 90612
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 22397
+	Voluntary context switches: 3
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 10344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32762 redzone
+base=0x27776d000, redzone=0x2777ad000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n56_cost.fzn"
+	User time (seconds): 199.15
+	System time (seconds): 10.01
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:29.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11074648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 8319372
+	Voluntary context switches: 108
+	Involuntary context switches: 255
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n57_cost_1_b1.mzn"
+	User time (seconds): 1.32
+	System time (seconds): 0.11
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 93536
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23218
+	Voluntary context switches: 18
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 4112
+	File system outputs: 10616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32762 redzone
+base=0x2a8635000, redzone=0x2a8675000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n57_cost.fzn"
+	User time (seconds): 183.50
+	System time (seconds): 8.38
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:12.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11126012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 6055544
+	Voluntary context switches: 105
+	Involuntary context switches: 231
+	Swaps: 0
+	File system inputs: 18528
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n58_cost_1_b1.mzn"
+	User time (seconds): 1.33
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95608
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23653
+	Voluntary context switches: 19
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 4232
+	File system outputs: 10896
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x21d25c000, redzone=0x21d29c000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n58_cost.fzn"
+	User time (seconds): 193.12
+	System time (seconds): 5.62
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:19.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10814208
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 88
+	Minor (reclaiming a frame) page faults: 2966140
+	Voluntary context switches: 111
+	Involuntary context switches: 254
+	Swaps: 0
+	File system inputs: 18296
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n5_cost_1_b1.mzn"
+	User time (seconds): 0.11
+	System time (seconds): 0.01
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15004
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2593
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 160
+	File system outputs: 552
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x285ba1000, redzone=0x285be1000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n5_cost.fzn"
+	User time (seconds): 168.88
+	System time (seconds): 7.86
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:57.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10551152
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 88
+	Minor (reclaiming a frame) page faults: 6373464
+	Voluntary context switches: 99
+	Involuntary context switches: 207
+	Swaps: 0
+	File system inputs: 18296
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n60_cost_1_b1.mzn"
+	User time (seconds): 1.43
+	System time (seconds): 0.10
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24358
+	Voluntary context switches: 20
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 4472
+	File system outputs: 11456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32782 redzone
+base=0x2944f3000, redzone=0x294533000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n60_cost.fzn"
+	User time (seconds): 189.98
+	System time (seconds): 5.87
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:15.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10802276
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2751837
+	Voluntary context switches: 20
+	Involuntary context switches: 228
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n61_cost_1_b1.mzn"
+	User time (seconds): 1.44
+	System time (seconds): 0.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 100912
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24587
+	Voluntary context switches: 20
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 4600
+	File system outputs: 11744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2087a7000, redzone=0x2087e7000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n61_cost.fzn"
+	User time (seconds): 185.02
+	System time (seconds): 5.27
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:10.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10100012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 74
+	Minor (reclaiming a frame) page faults: 3008857
+	Voluntary context switches: 88
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 14848
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n62_cost_1_b1.mzn"
+	User time (seconds): 1.49
+	System time (seconds): 0.11
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 102856
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25594
+	Voluntary context switches: 21
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 4720
+	File system outputs: 12032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2afa8c000, redzone=0x2afacc000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n62_cost.fzn"
+	User time (seconds): 190.77
+	System time (seconds): 5.79
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:16.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11229244
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 74
+	Minor (reclaiming a frame) page faults: 2605362
+	Voluntary context switches: 91
+	Involuntary context switches: 231
+	Swaps: 0
+	File system inputs: 14856
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n63_cost_1_b1.mzn"
+	User time (seconds): 1.53
+	System time (seconds): 0.12
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104824
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26140
+	Voluntary context switches: 21
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 4848
+	File system outputs: 12320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32762 redzone
+base=0x29b0b0000, redzone=0x29b0f0000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n63_cost.fzn"
+	User time (seconds): 181.75
+	System time (seconds): 5.39
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:07.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10917324
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 75
+	Minor (reclaiming a frame) page faults: 2837224
+	Voluntary context switches: 90
+	Involuntary context switches: 218
+	Swaps: 0
+	File system inputs: 15264
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n64_cost_1_b1.mzn"
+	User time (seconds): 1.52
+	System time (seconds): 0.15
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 107824
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26377
+	Voluntary context switches: 22
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 4976
+	File system outputs: 12616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x293458000, redzone=0x293498000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n64_cost.fzn"
+	User time (seconds): 192.50
+	System time (seconds): 5.67
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:18.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10782636
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2782761
+	Voluntary context switches: 20
+	Involuntary context switches: 237
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n65_cost_1_b1.mzn"
+	User time (seconds): 1.57
+	System time (seconds): 0.15
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 109640
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27425
+	Voluntary context switches: 22
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 5104
+	File system outputs: 12912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x261f2c000, redzone=0x261f6c000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n65_cost.fzn"
+	User time (seconds): 189.50
+	System time (seconds): 4.95
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:14.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9978064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2152276
+	Voluntary context switches: 14
+	Involuntary context switches: 226
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n66_cost_1_b1.mzn"
+	User time (seconds): 1.66
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 111784
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27444
+	Voluntary context switches: 29
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 5240
+	File system outputs: 13208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32812 redzone
+base=0x28a767000, redzone=0x28a7a7000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n66_cost.fzn"
+	User time (seconds): 211.16
+	System time (seconds): 11.38
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:42.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10622424
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 73
+	Minor (reclaiming a frame) page faults: 9958680
+	Voluntary context switches: 104
+	Involuntary context switches: 275
+	Swaps: 0
+	File system inputs: 14616
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n67_cost_1_b1.mzn"
+	User time (seconds): 1.63
+	System time (seconds): 0.14
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 114400
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28108
+	Voluntary context switches: 23
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 5368
+	File system outputs: 13512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x203321000, redzone=0x203361000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n67_cost.fzn"
+	User time (seconds): 197.42
+	System time (seconds): 9.24
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:26.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10144852
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7860425
+	Voluntary context switches: 17
+	Involuntary context switches: 246
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n68_cost_1_b1.mzn"
+	User time (seconds): 1.66
+	System time (seconds): 0.17
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116592
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28656
+	Voluntary context switches: 24
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 5504
+	File system outputs: 13816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x20c41d000, redzone=0x20c45d000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n68_cost.fzn"
+	User time (seconds): 188.50
+	System time (seconds): 5.52
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:14.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10160012
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 64
+	Minor (reclaiming a frame) page faults: 3091878
+	Voluntary context switches: 79
+	Involuntary context switches: 228
+	Swaps: 0
+	File system inputs: 12840
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n6_cost_1_b1.mzn"
+	User time (seconds): 0.12
+	System time (seconds): 0.01
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16480
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2970
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 192
+	File system outputs: 664
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2641d8000, redzone=0x264218000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n6_cost.fzn"
+	User time (seconds): 172.27
+	System time (seconds): 7.41
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:59.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10006540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5558542
+	Voluntary context switches: 6
+	Involuntary context switches: 230
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n7_cost_1_b1.mzn"
+	User time (seconds): 0.12
+	System time (seconds): 0.03
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3101
+	Voluntary context switches: 4
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 232
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x25aff4000, redzone=0x25b034000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n7_cost.fzn"
+	User time (seconds): 176.26
+	System time (seconds): 8.32
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:04.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9837244
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7678583
+	Voluntary context switches: 7
+	Involuntary context switches: 213
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n8_cost_1_b1.mzn"
+	User time (seconds): 0.14
+	System time (seconds): 0.02
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3327
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 272
+	File system outputs: 904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x2683f0000, redzone=0x268430000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n8_cost.fzn"
+	User time (seconds): 174.68
+	System time (seconds): 5.18
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:59.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10080124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2843344
+	Voluntary context switches: 7
+	Involuntary context switches: 230
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+## ---- /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost ---- ##
+### ---- mzn2fzn-g12-fd ---- ###
+	Command being timed: "timeout --signal=SIGKILL 10m mzn2fzn -G g12_fd -O- --fzn g12-fd-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn /home/contaldo/smallbench_thesis/int_bmc/bmc_gen_int_small/fischer_parametric1_mutual_exclusion_k10_n9_cost_1_b1.mzn"
+	User time (seconds): 0.14
+	System time (seconds): 0.05
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19492
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3833
+	Voluntary context switches: 4
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 312
+	File system outputs: 1032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+### ---- g12-fd ---- ###
+Errno = 12: Cannot allocate memory
+Mercury runtime: unable to set unknown#32761 redzone
+base=0x200cd3000, redzone=0x200d13000
+Command exited with non-zero status 1
+	Command being timed: "timeout --signal=SIGKILL 10m flatzinc g12-fd-fischer_parametric1_mutual_exclusion_k10_n9_cost.fzn"
+	User time (seconds): 177.64
+	System time (seconds): 5.56
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:03.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10433488
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3061557
+	Voluntary context switches: 8
+	Involuntary context switches: 210
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1

@@ -1,0 +1,16 @@
+Error Table
+##################################################
+gurobi 10^-6 : 1 	10^-3 : 1 	10^-1 : 1 	10^0 : 1 	10^1 : 0 	unsat : 2595 	less: 36 	eq 24 	unve:  0
+ourtool_flat_opz3 10^-6 : 0 	10^-3 : 0 	10^-1 : 0 	10^0 : 0 	10^1 : 0 	unsat : 0 	less: 2632 	eq 2632 	unve:  0
+gecode 10^-6 : 0 	10^-3 : 0 	10^-1 : 0 	10^0 : 0 	10^1 : 0 	unsat : 0 	less: 155 	eq 155 	unve:  0
+g12mip 10^-6 : 0 	10^-3 : 0 	10^-1 : 0 	10^0 : 0 	10^1 : 0 	unsat : 2632 	less: 0 	eq 0 	unve:  0
+Results table
+##################################################
+gurobi 	 numb of prob:  2632 	 terminated:  2632 	 timeout:  0 	 tool-errors : 0 	 cum_times:  103.38999999999999
+ourtool_flat_opz3 	 numb of prob:  2632 	 terminated:  2632 	 timeout:  0 	 tool-errors : 0 	 cum_times:  1366.259999999995
+ourtool_smt2 	 numb of prob:  2632 	 terminated:  2632 	 timeout:  0 	 tool-errors : 0 	 cum_times:  283.980000000001
+gecode 	 numb of prob:  2632 	 terminated:  155 	 timeout:  2477 	 tool-errors : 0 	 cum_times:  10800.019999999999
+g12mip 	 numb of prob:  2632 	 terminated:  2632 	 timeout:  0 	 tool-errors : 0 	 cum_times:  0
+VB  fzn - no our tool  nprob: 2632 	terminated:  169 	timeout:  0 	tool-error:  0 	correct:  169 	unverified:  0 	result-err:  2463 	cum times:  10402.51
+VB  all fzn  nprob: 2632 	terminated:  2632 	timeout:  0 	tool-error:  0 	correct:  2632 	unverified:  0 	result-err:  0 	cum times:  1366.149999999996
+VB  all  nprob: 2632 	terminated:  2632 	timeout:  0 	tool-error:  0 	correct:  2632 	unverified:  0 	result-err:  0 	cum times:  283.9800000000028

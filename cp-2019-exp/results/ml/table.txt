@@ -1,0 +1,18 @@
+Error Table
+##################################################
+gurobi 10^-6 : 8 	10^-3 : 8 	10^-1 : 6 	10^0 : 4 	10^1 : 0 	unsat : 468 	less: 24 	eq 22 	unve:  1
+ourtool_flat_opz3 10^-6 : 0 	10^-3 : 0 	10^-1 : 0 	10^0 : 0 	10^1 : 0 	unsat : 0 	less: 68 	eq 68 	unve:  0
+ourtool_flat_def 10^-6 : 0 	10^-3 : 0 	10^-1 : 0 	10^0 : 0 	10^1 : 0 	unsat : 177 	less: 35 	eq 35 	unve:  0
+gecode 10^-6 : 17 	10^-3 : 17 	10^-1 : 2 	10^0 : 0 	10^1 : 0 	unsat : 147 	less: 24 	eq 24 	unve:  0
+g12mip 10^-6 : 0 	10^-3 : 0 	10^-1 : 0 	10^0 : 0 	10^1 : 0 	unsat : 400 	less: 2 	eq 0 	unve:  0
+Results table
+##################################################
+gurobi 	 numb of prob:  510 	 terminated:  501 	 timeout:  9 	 tool-errors : 0 	 cum_times:  135.23000000000002
+ourtool_flat_opz3 	 numb of prob:  510 	 terminated:  68 	 timeout:  442 	 tool-errors : 0 	 cum_times:  79.50999999999999
+ourtool_smt2 	 numb of prob:  510 	 terminated:  500 	 timeout:  10 	 tool-errors : 0 	 cum_times:  7707.859999999999
+ourtool_flat_def 	 numb of prob:  510 	 terminated:  212 	 timeout:  298 	 tool-errors : 0 	 cum_times:  32.239999999999995
+gecode 	 numb of prob:  510 	 terminated:  188 	 timeout:  322 	 tool-errors : 0 	 cum_times:  10.610000000000001
+g12mip 	 numb of prob:  510 	 terminated:  402 	 timeout:  108 	 tool-errors : 0 	 cum_times:  224.94
+VB  fzn - no our tool  nprob: 510 	terminated:  33 	timeout:  9 	tool-error:  0 	correct:  32 	unverified:  1 	result-err:  468 	cum times:  317.2900000000001
+VB  all fzn  nprob: 510 	terminated:  73 	timeout:  9 	tool-error:  0 	correct:  72 	unverified:  1 	result-err:  428 	cum times:  359.19
+VB  all  nprob: 510 	terminated:  501 	timeout:  9 	tool-error:  0 	correct:  500 	unverified:  1 	result-err:  0 	cum times:  7737.570000000001

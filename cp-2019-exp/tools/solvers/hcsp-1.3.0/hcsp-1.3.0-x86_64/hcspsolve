@@ -1,0 +1,55 @@
+#!/bin/sh
+
+eval file="\$$#"
+unset dir
+case $0 in
+  /*/*|/*/.*)
+      dir=$0
+      dir=${dir%/*}
+      ;;
+  /*)
+      dir=/
+      ;;
+  */*|*/.*)
+      dir=$0
+      dir=${dir%/*}
+      ;;
+  *|.*)
+      OLD_IFS="$IFS"
+      IFS=:
+      for i in $PATH
+      do
+         if [ -x "$i/$0" ]
+         then
+            dir=$i
+            break
+         fi
+      done
+      IFS="$OLD_IFS"
+esac
+if [ -z "$dir" ]
+then
+   hcsp=hcsp
+else
+   hcsp="$dir/hcsp"
+fi
+      
+unset big
+if fgrep "<domain" $file | grep -E '<domain.*>.*(-|[4-9][0-9][0-9]*|3[2-9][0-9]*|[0-9][0-9][0-9][0-9]*).*</domain'  >/dev/null
+then
+    echo "c has big domains"
+    big=1
+elif grep -E '\<(mul|pow|abs|add|sub)\>' "$file" >/dev/null
+then
+    echo "c has operations which may create big domains"
+    big=1
+fi
+if [ -n "$big" ]
+then
+  echo "c big-domain mode"
+  exec $hcsp.big "$@"
+else
+  echo "c small-domain mode"
+  exec $hcsp.small "$@"
+fi
+
