@@ -3,7 +3,7 @@
 # 1. Experiment Setup:
 
 Modify the value of variable BASE_DIR, contained in the .bashrc file, to point
-at the FS location in which this file is contained. E.g.,
+at the ABSOLUTE DIRECTORY PATH in which this file is contained. E.g.,
 
     export BASE_DIR="/home/account_name/cp2019/minizinc_test/"
 
