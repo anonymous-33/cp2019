@@ -11,17 +11,20 @@ at the ABSOLUTE DIRECTORY PATH in which this file is contained. E.g.,
 
 - Load the environment variables and scripts with
 
-    ~$ source .bashrc
+      ~$ source .bashrc
 
 - [optional] Protect your computer from trashing, and run the script
 
-    ~$ nohup ./monitor_ram.sh > ram.log 2>&1 &
+      ~$ nohup ./monitor_ram.sh > ram.log 2>&1 &
 
   in a separate terminal
 
 - Launch the experiment
 
-    ~$ nohup run_experiment.sh bench2016 out fzn 1 1200 &
+      ~$ nohup run_experiment.sh bench2016 out fzn 1 1200 &
+      
+   **NB:** due to license reasons, `Gurobi` is not included
+           in the package.
 
 # 3. Collect the Data:
 
