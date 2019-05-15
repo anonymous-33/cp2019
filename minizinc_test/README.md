@@ -1,6 +1,3 @@
-Author:      Anon Anon <anon.anon@anon.anon>
-Institution: Anon
-
 # CONTENT: MiniZinc Challenge 2016
 
 # 1. Experiment Setup:
@@ -8,7 +5,7 @@ Institution: Anon
 Modify the value of variable BASE_DIR, contained in the .bashrc file, to point
 at the FS location in which this file is contained. E.g.,
 
-    export BASE_DIR="/home/account_name/minizinc_test/"
+    export BASE_DIR="/home/account_name/cp2019/minizinc_test/"
 
 # 2. Launching the Experiment:
 
@@ -16,7 +13,7 @@ at the FS location in which this file is contained. E.g.,
 
     ~$ source .bashrc
 
-- Protect your computer from trashing, and run the script
+- [optional] Protect your computer from trashing, and run the script
 
     ~$ nohup ./monitor_ram.sh > ram.log 2>&1 &
 
